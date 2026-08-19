@@ -1,0 +1,2058 @@
+[
+{
+"q": "How many calories should I eat to lose weight?",
+"a": "A common starting point is a 500-calorie daily deficit below your TDEE. For most people this means eating between 1,500 and 2,000 calories per day, but it varies by age, weight, and activity level. Use a TDEE calculator for a personalized number."
+},
+{
+"q": "What is a good daily calorie goal for weight loss?",
+"a": "A safe and sustainable calorie goal is typically 1,500 to 1,800 calories per day for most adults. Avoid going below 1,200 calories without medical supervision."
+},
+{
+"q": "How do I count calories when meal prepping?",
+"a": "Weigh ingredients before cooking using a kitchen scale, log each in an app like MyFitnessPal, then divide total calories by the number of servings. Label each container with the count."
+},
+{
+"q": "How do I calculate calories per meal?",
+"a": "Divide your daily goal across meals. For 1,500 calories with three meals and a snack, aim for roughly 400 per meal and 300 for the snack."
+},
+{
+"q": "What is a calorie deficit?",
+"a": "A calorie deficit means consuming fewer calories than your body burns. A 500-calorie daily deficit typically leads to about one pound of weight loss per week."
+},
+{
+"q": "How do I track my calories?",
+"a": "Use a free app like MyFitnessPal or Cronometer. Log everything including oils, sauces, and drinks. Calculate batch totals when meal prepping and divide by servings."
+},
+{
+"q": "Is it bad to eat under 1200 calories?",
+"a": "Eating below 1,200 calories is generally not recommended without medical supervision. It can cause nutrient deficiencies, muscle loss, and metabolic slowdown."
+},
+{
+"q": "How many calories are in a pound of fat?",
+"a": "One pound of body fat contains approximately 3,500 calories. A daily deficit of 500 calories therefore leads to roughly one pound of fat loss per week."
+},
+{
+"q": "What is TDEE?",
+"a": "TDEE stands for Total Daily Energy Expenditure \u2014 the total calories your body burns in a day including exercise. Eating below your TDEE creates a calorie deficit for weight loss."
+},
+{
+"q": "How do I calculate my TDEE?",
+"a": "Use an online TDEE calculator that takes your age, height, weight, and activity level as inputs. It multiplies your BMR by an activity factor to estimate your total daily burn."
+},
+{
+"q": "What is BMR?",
+"a": "BMR stands for Basal Metabolic Rate \u2014 the number of calories your body burns at rest just to maintain basic functions like breathing and circulation. It is the foundation for calculating your TDEE."
+},
+{
+"q": "How many calories should a woman eat to lose weight?",
+"a": "Most women lose weight sustainably on 1,200 to 1,500 calories per day, depending on height, weight, and activity level. A deficit of 500 calories below TDEE is a good starting point."
+},
+{
+"q": "How many calories should a man eat to lose weight?",
+"a": "Most men lose weight on 1,500 to 1,800 calories per day depending on size and activity. A 500-calorie daily deficit from your TDEE is a good starting target."
+},
+{
+"q": "How do I use MyFitnessPal for meal prep?",
+"a": "Create your recipes in MyFitnessPal by entering each ingredient and the number of servings. It calculates calories and macros per serving automatically. Log meals as you pack containers each week."
+},
+{
+"q": "Should I eat back calories burned from exercise?",
+"a": "Whether to eat back exercise calories depends on how your TDEE was calculated. If it already accounts for your activity level, do not eat them back. If you used a sedentary TDEE, eating back roughly half your exercise calories is a reasonable approach."
+},
+{
+"q": "How many calories are in chicken breast?",
+"a": "A 4-ounce grilled chicken breast contains approximately 130 to 160 calories with about 26 to 30 grams of protein, making it one of the most calorie-efficient protein sources for weight loss."
+},
+{
+"q": "How many calories should I eat for breakfast?",
+"a": "For a 1,500-calorie day, aim for 300 to 400 calories at breakfast. Prioritize protein to stay full until lunch. Good options include eggs, Greek yogurt, or overnight oats."
+},
+{
+"q": "How do I cut 500 calories a day?",
+"a": "Easy ways to cut 500 calories: swap sugary drinks for water (~150 cal), replace white rice with cauliflower rice (~100 cal), cut cooking oil in half (~60 cal), skip one snack (~150 cal), and reduce portions by 10% at each meal."
+},
+{
+"q": "What happens if I eat too few calories?",
+"a": "Eating too few calories can cause fatigue, muscle loss, nutrient deficiencies, and metabolic adaptation where your body burns fewer calories at rest. This makes continued weight loss harder."
+},
+{
+"q": "Is 1500 calories enough to lose weight?",
+"a": "For most people, 1,500 calories per day creates a meaningful deficit and supports steady weight loss of about 0.5 to 1 pound per week. It provides enough energy and nutrition for most adults."
+},
+{
+"q": "How many calories are in brown rice?",
+"a": "Half a cup of cooked brown rice contains about 108 calories with 2.5 grams of protein and 22 grams of carbohydrates. It is more nutrient-dense than white rice for weight loss."
+},
+{
+"q": "How many calories are in an egg?",
+"a": "One large egg contains about 70 to 80 calories with 6 grams of protein and 5 grams of fat. Eggs are one of the most nutrient-dense and filling foods per calorie."
+},
+{
+"q": "How many calories are in avocado?",
+"a": "Half a medium avocado contains about 120 calories with 10 grams of healthy fat and 5 grams of fiber. While calorie-dense, it is very filling and nutritious \u2014 just watch portion size."
+},
+{
+"q": "How many calories are in Greek yogurt?",
+"a": "A 5.3-ounce container of plain non-fat Greek yogurt contains about 80 to 100 calories with 15 to 17 grams of protein. It is one of the best high-protein, low-calorie foods for weight loss."
+},
+{
+"q": "How many calories are in sweet potato?",
+"a": "One medium sweet potato contains about 100 to 130 calories with 3 grams of fiber and loads of vitamins. It is an excellent complex carb for meal prep."
+},
+{
+"q": "How do I stay in a calorie deficit on weekends?",
+"a": "Plan your weekend meals just like weekdays. Allow one slightly higher-calorie meal without going overboard, stay hydrated, and avoid alcohol which adds empty calories quickly."
+},
+{
+"q": "Does drinking water help with weight loss?",
+"a": "Staying hydrated supports weight loss by reducing hunger, since thirst is often mistaken for hunger. Drinking water before meals can reduce how much you eat. Aim for 8 to 10 cups per day."
+},
+{
+"q": "How many calories are in oatmeal?",
+"a": "Half a cup of dry rolled oats contains about 150 calories with 5 grams of protein and 4 grams of fiber. Oatmeal is a filling, slow-digesting breakfast that supports weight loss when made without added sugar."
+},
+{
+"q": "What are empty calories?",
+"a": "Empty calories are foods that provide energy but very little nutritional value \u2014 like sugary drinks, candy, chips, and alcohol. They make it hard to stay in a calorie deficit without sacrificing nutrition."
+},
+{
+"q": "How do I avoid going over my calorie limit?",
+"a": "Meal prep your food in advance, eat slowly and mindfully, drink water before meals, avoid eating directly from large packages, use smaller plates, and keep high-calorie snacks out of the house."
+},
+{
+"q": "How many calories should I eat if I work out?",
+"a": "If you exercise regularly, your TDEE is higher. Most active people aiming to lose weight eat 1,600 to 2,000 calories depending on intensity. Ensure you eat enough protein to support muscle retention."
+},
+{
+"q": "What is a refeed day?",
+"a": "A refeed day is a planned higher-calorie day, usually at or near maintenance level, during a long weight loss phase. It can help restore energy, support hormones, and provide a mental break without derailing progress."
+},
+{
+"q": "What are good calorie tracking apps?",
+"a": "Top calorie tracking apps include MyFitnessPal, Cronometer, Lose It, and Noom. Cronometer is especially good for tracking micronutrients. MyFitnessPal has the largest food database."
+},
+{
+"q": "How do I not feel hungry on a calorie deficit?",
+"a": "Prioritize high-volume high-fiber foods like vegetables and legumes, eat adequate protein at every meal, drink water throughout the day, space meals evenly, and get enough sleep since poor sleep increases hunger hormones."
+},
+{
+"q": "How many calories are in quinoa?",
+"a": "Half a cup of cooked quinoa contains about 110 calories with 4 grams of protein and 2.5 grams of fiber. It is a complete protein source and a great grain for weight loss meal prep."
+},
+{
+"q": "Are liquid calories bad for weight loss?",
+"a": "Liquid calories from soda, juice, alcohol, and specialty coffee drinks are particularly problematic because they do not trigger the same fullness signals as solid food. Stick to water, black coffee, and unsweetened tea."
+},
+{
+"q": "How many calories are in black beans?",
+"a": "Half a cup of cooked black beans contains about 115 calories with 7.5 grams of protein and 7.5 grams of fiber. They are one of the best budget-friendly foods for a weight loss diet."
+},
+{
+"q": "What is calorie cycling?",
+"a": "Calorie cycling involves eating different calorie amounts on different days \u2014 for example higher calories on workout days and lower on rest days. It can help with adherence while maintaining an overall weekly deficit."
+},
+{
+"q": "How do I calculate calories in a homemade meal?",
+"a": "Log every ingredient by weight into a calorie tracking app before cooking. Note the total calories for the full recipe, then divide by how many portions you made. Each container equals one serving."
+},
+{
+"q": "How many calories are in lentils?",
+"a": "Half a cup of cooked lentils contains about 115 calories with 9 grams of protein and 8 grams of fiber. Lentils are one of the most filling and nutrient-dense foods for weight loss."
+},
+{
+"q": "Give me a healthy meal prep recipe for the week.",
+"a": "Try sheet pan chicken and vegetables: season 4 chicken breasts with olive oil, garlic, paprika, salt and pepper. Add chopped bell peppers, zucchini, and broccoli. Roast at 400 degrees F for 25 to 30 minutes. Divide into 4 containers with half a cup of brown rice. About 420 calories per serving."
+},
+{
+"q": "What are some high protein low calorie meals?",
+"a": "High protein low calorie options: grilled chicken breast with green beans (~280 cal, 35g protein), egg white omelets with spinach (~150 cal, 20g protein), cottage cheese with cucumber (~180 cal, 25g protein), and turkey meatballs with zucchini noodles (~320 cal, 30g protein)."
+},
+{
+"q": "Give me a chicken meal prep idea.",
+"a": "Lemon garlic chicken bowls: marinate 4 chicken breasts in lemon juice, olive oil, garlic, and oregano for 30 minutes. Bake at 400 degrees F for 20 to 25 minutes. Slice and divide with half a cup of quinoa and roasted zucchini. About 400 calories per bowl."
+},
+{
+"q": "What is a good ground turkey recipe for meal prep?",
+"a": "Turkey taco bowls: brown 1 lb ground turkey with taco seasoning, onion, and garlic. Serve over cauliflower rice with black beans and salsa. About 380 calories per serving with 35g of protein."
+},
+{
+"q": "What are some low calorie beef recipes?",
+"a": "Try a beef and vegetable stir-fry: brown 1 lb of 93% lean ground beef with garlic and ginger, add snap peas, carrots, and broccoli, toss in a soy-sesame sauce, and serve over cauliflower rice for about 350 calories per serving."
+},
+{
+"q": "How do I meal prep chicken for the week?",
+"a": "Bake a large batch of chicken breasts on Sunday: season with olive oil, salt, pepper, garlic, and your preferred herbs. Bake at 400 degrees F for 22 to 25 minutes. Slice and refrigerate in portions. Use in salads, bowls, wraps, and stir-fries all week."
+},
+{
+"q": "What is a good low calorie chicken recipe?",
+"a": "Grilled lemon herb chicken: brush chicken breasts with olive oil, lemon juice, minced garlic, thyme, salt and pepper. Grill 6 to 7 minutes per side. Each 4-ounce serving is about 160 calories with 30 grams of protein."
+},
+{
+"q": "How do I cook ground turkey for meal prep?",
+"a": "Brown ground turkey in a skillet over medium-high heat, breaking it up as it cooks. Season with garlic, onion powder, paprika, salt and pepper. Cook until no pink remains, about 8 to 10 minutes. Divide into portions and refrigerate up to 4 days."
+},
+{
+"q": "What can I make with chicken breast for weight loss?",
+"a": "Great chicken breast options: grilled chicken salad (~300 cal), chicken and vegetable stir-fry over cauliflower rice (~320 cal), baked chicken with roasted sweet potato and broccoli (~400 cal), and chicken lettuce wraps with salsa (~250 cal)."
+},
+{
+"q": "What is a good lean beef recipe?",
+"a": "Lean beef and vegetable stuffed peppers: mix 1 lb of 93% lean ground beef with diced tomatoes, onion, garlic, Italian seasoning, and half a cup of cooked rice. Stuff into 4 bell peppers and bake at 375 degrees F for 35 minutes. About 370 calories each."
+},
+{
+"q": "How do I make chicken stir-fry for meal prep?",
+"a": "Slice 4 chicken breasts thinly and stir-fry in a hot pan with garlic and ginger. Add broccoli, snap peas, and carrots. Toss in a sauce of soy sauce, sesame oil, and a little honey. Divide over cauliflower rice. About 350 calories per serving."
+},
+{
+"q": "What are good turkey meal prep recipes?",
+"a": "Turkey options: turkey and vegetable chili (~300 cal), ground turkey taco bowls (~380 cal), turkey meatballs with zucchini noodles (~320 cal), turkey and spinach stuffed peppers (~360 cal), and turkey lettuce wrap with avocado (~280 cal)."
+},
+{
+"q": "How long does cooked chicken last in the fridge?",
+"a": "Cooked chicken lasts 3 to 4 days in the refrigerator stored in an airtight container. Freeze portions you will not eat within 4 days and thaw overnight in the fridge when needed."
+},
+{
+"q": "What spices are good for chicken?",
+"a": "Great spice combinations: lemon, garlic, and oregano for Mediterranean flavor; cumin, chili powder, and paprika for Mexican style; garlic, ginger, and soy sauce for Asian stir-fry; or simple salt, pepper, and rosemary for a classic roast."
+},
+{
+"q": "What is the healthiest way to cook chicken?",
+"a": "Grilling, baking, and poaching add little to no extra fat. Avoid frying. Baking at 400 degrees F for 20 to 25 minutes produces juicy, flavorful chicken with minimal added calories."
+},
+{
+"q": "How do I make turkey chili for meal prep?",
+"a": "Brown 1 lb ground turkey, add diced onion, garlic, canned tomatoes, kidney beans, black beans, chili powder, cumin, paprika, salt and pepper. Simmer 20 to 25 minutes. Makes 5 to 6 servings at about 280 to 300 calories each. Freezes well."
+},
+{
+"q": "What is a good high protein low calorie dinner with chicken?",
+"a": "Baked chicken thighs with roasted broccoli: season bone-in chicken thighs with garlic, paprika, salt and pepper. Roast at 425 degrees F for 35 to 40 minutes. Serve with 2 cups of roasted broccoli. About 380 calories with 38 grams of protein."
+},
+{
+"q": "Can I eat chicken every day for weight loss?",
+"a": "Yes, eating chicken daily can support weight loss as it is a lean, high-protein food. Vary your preparation methods and sides to keep meals interesting and ensure you get a variety of nutrients throughout the week."
+},
+{
+"q": "What is a healthy ground beef recipe for meal prep?",
+"a": "Korean-style ground beef bowls: brown 1 lb of 93% lean ground beef with garlic, ginger, soy sauce, a little honey, and sesame oil. Serve over cauliflower rice with shredded carrots and cucumber. About 380 calories per serving."
+},
+{
+"q": "How do I make baked chicken for meal prep?",
+"a": "Arrange chicken breasts in a single layer on a lined baking sheet. Drizzle with olive oil and season generously. Bake at 400 degrees F for 22 to 26 minutes depending on thickness. Let rest 5 minutes before slicing. Store in airtight containers for up to 4 days."
+},
+{
+"q": "What are good chicken thigh meal prep recipes?",
+"a": "Chicken thighs are juicier and more forgiving than breasts. Great options: honey garlic baked thighs (~380 cal), Greek-marinated thighs with tzatziki (~360 cal), teriyaki thighs with broccoli and rice (~420 cal), and Cajun roasted thighs with sweet potato (~400 cal)."
+},
+{
+"q": "How do I make a healthy chicken casserole?",
+"a": "Dice 3 chicken breasts and mix with 2 cups broccoli, half a cup of Greek yogurt, low-sodium chicken broth, garlic, onion, and a quarter cup of shredded cheese. Pour into a baking dish and bake at 375 degrees F for 30 minutes. About 350 calories per serving."
+},
+{
+"q": "What is a good low calorie meatball recipe?",
+"a": "Turkey meatballs: combine 1 lb ground turkey with breadcrumbs, egg, garlic, Italian herbs, salt and pepper. Roll into 20 meatballs and bake at 400 degrees F for 18 to 20 minutes. About 200 calories for 4 meatballs with 22 grams of protein."
+},
+{
+"q": "What meat is best for weight loss?",
+"a": "The best meats: chicken breast (~160 cal per 4 oz), turkey breast (~130 cal), pork tenderloin (~140 cal), and 93% lean ground beef (~180 cal). Fish is even leaner. Avoid processed meats and fatty cuts."
+},
+{
+"q": "How do I make healthy chicken fajitas?",
+"a": "Slice 3 chicken breasts and saute with strips of red, green, and yellow bell pepper and onion in a little olive oil with fajita seasoning. Serve in lettuce cups instead of tortillas. About 280 calories per serving with 32 grams of protein."
+},
+{
+"q": "How do I make a chicken Buddha bowl?",
+"a": "Base of half a cup of quinoa, sliced grilled chicken, roasted chickpeas, shredded red cabbage, cucumber, cherry tomatoes, and a drizzle of tahini dressing. About 450 calories with 35 grams of protein."
+},
+{
+"q": "What is a good beef stew recipe for meal prep?",
+"a": "Lean beef stew: brown cubed lean beef, add diced carrots, celery, onion, garlic, beef broth, and thyme. Simmer 1.5 hours until tender. About 350 calories per serving. Freezes well."
+},
+{
+"q": "How do I cook chicken without oil?",
+"a": "Use a non-stick pan with a splash of chicken broth or water, bake on a rack over a lined pan, or use an air fryer. Poaching in broth adds zero fat and keeps the meat very moist."
+},
+{
+"q": "What is a good slow cooker chicken recipe for meal prep?",
+"a": "Slow cooker shredded chicken: place 4 chicken breasts in the slow cooker with garlic, onion, chicken broth, cumin, paprika, salt and pepper. Cook on low 6 to 8 hours. Shred with forks. Use all week in bowls, soups, and wraps. About 150 calories per portion."
+},
+{
+"q": "How do I make chicken soup for weight loss?",
+"a": "Healthy chicken noodle soup: simmer diced chicken breast, carrots, celery, onion, and garlic in low-sodium chicken broth for 20 minutes. Add zucchini noodles instead of pasta for the last 3 minutes. About 200 calories per bowl with 25 grams of protein."
+},
+{
+"q": "What is a good marinated chicken recipe?",
+"a": "Greek marinated chicken: combine olive oil, lemon juice, garlic, oregano, salt, and pepper. Marinate chicken breasts for at least 1 hour. Grill or bake at 400 degrees F for 20 to 25 minutes. Serve with a Greek salad and a small portion of rice. About 380 calories."
+},
+{
+"q": "How do I keep chicken moist when meal prepping?",
+"a": "Avoid overcooking \u2014 use a meat thermometer and pull chicken at 165 degrees F internally. Brine in salted water for 30 minutes before cooking. Store in its own juices and add a splash of chicken broth before reheating to restore moisture."
+},
+{
+"q": "What are good low calorie dinner ideas with beef?",
+"a": "Lean beef dinner options: 93% lean beef stir-fry over cauliflower rice (~350 cal), stuffed bell peppers (~370 cal), beef and vegetable soup (~280 cal), Korean beef bowls with shredded cabbage (~380 cal), and lean beef tacos in lettuce cups (~320 cal)."
+},
+{
+"q": "Can I freeze cooked ground turkey?",
+"a": "Yes, cooked ground turkey freezes well for up to 3 months. Cool it completely first, then freeze in portions. Thaw overnight in the fridge and reheat in a skillet with a splash of broth."
+},
+{
+"q": "How do I make a healthy chicken wrap for meal prep?",
+"a": "Grilled chicken Caesar lettuce wraps: slice grilled chicken breast, wrap in large romaine leaves with shaved parmesan and a drizzle of light Caesar dressing. About 280 calories per wrap with 30 grams of protein. Store chicken separately and assemble before eating."
+},
+{
+"q": "What is a good pork recipe for weight loss?",
+"a": "Pork tenderloin is one of the leanest cuts. Season with garlic, rosemary, mustard, salt and pepper. Sear in an oven-safe pan, then roast at 400 degrees F for 20 minutes. A 4-ounce serving is about 140 calories with 26 grams of protein."
+},
+{
+"q": "How do I make a healthy chicken casserole for meal prep?",
+"a": "Simple chicken and rice casserole: mix cooked chicken, brown rice, low-sodium broth, garlic, onion, frozen peas, and a little Greek yogurt. Bake at 375 degrees F for 25 minutes. About 380 calories per serving. Freezes well."
+},
+{
+"q": "What is the best way to season ground turkey?",
+"a": "Ground turkey absorbs flavors well. For Mexican style: cumin, chili powder, garlic, onion powder. For Italian: fennel, garlic, Italian seasoning, red pepper flakes. For Asian: ginger, garlic, soy sauce, sesame oil. Always season generously as turkey has a mild flavor on its own."
+},
+{
+"q": "How do I make a healthy chicken salad?",
+"a": "Healthy chicken salad: mix diced grilled chicken with diced celery, red onion, a tablespoon of Greek yogurt, a teaspoon of Dijon mustard, lemon juice, salt and pepper. Serve over mixed greens or in a lettuce cup. About 250 calories with 30 grams of protein."
+},
+{
+"q": "Give me a healthy fish recipe.",
+"a": "Try lemon herb baked salmon: drizzle 4 salmon fillets with olive oil, lemon juice, garlic, dill, salt and pepper. Bake at 400 degrees F for 12 to 15 minutes. Pair with steamed broccoli and half a cup of quinoa. About 380 calories per serving."
+},
+{
+"q": "What is a good fish meal prep recipe?",
+"a": "Baked cod meal prep: season 4 cod fillets with paprika, garlic powder, lemon zest, salt and pepper. Bake at 425 degrees F for 12 to 14 minutes. Serve with roasted asparagus and sweet potato. About 320 calories per serving."
+},
+{
+"q": "What are some healthy fish recipes for weight loss?",
+"a": "Great fish options: baked salmon (~380 cal), tilapia lettuce tacos (~280 cal), tuna stuffed peppers (~300 cal), baked cod with sweet potato (~320 cal), and shrimp stir-fry with cauliflower rice (~290 cal)."
+},
+{
+"q": "Can you give me a salmon recipe?",
+"a": "Honey soy salmon: mix soy sauce, honey, sesame oil, and garlic. Marinate 4 fillets for 30 minutes. Bake at 400 degrees F for 13 to 15 minutes. Serve over cauliflower rice with edamame. About 370 calories with 35 grams of protein."
+},
+{
+"q": "Give me a tuna recipe for meal prep.",
+"a": "Tuna salad bowls: mix 2 cans drained tuna with diced celery, red onion, Greek yogurt, Dijon mustard, and lemon juice. Serve over mixed greens with cucumber and cherry tomatoes. About 220 calories per serving."
+},
+{
+"q": "What are some good shrimp recipes for meal prep?",
+"a": "Garlic shrimp stir-fry: saute 1 pound of shrimp with garlic, ginger, soy sauce, and sesame oil. Serve over cauliflower rice with snap peas. About 250 calories per serving."
+},
+{
+"q": "What is the lowest calorie fish?",
+"a": "The lowest calorie fish are: cod (~90 cal per 4 oz), tilapia (~110 cal), flounder (~100 cal), and mahi-mahi (~100 cal). All are high in lean protein and very low in fat."
+},
+{
+"q": "How do I meal prep salmon?",
+"a": "Season 4 salmon fillets and bake all at once at 400 degrees F for 12 to 15 minutes. Let cool, then refrigerate in airtight containers. Salmon keeps for 3 to 4 days in the fridge. Eat cold over salads or reheat gently."
+},
+{
+"q": "Is salmon good for weight loss?",
+"a": "Yes, salmon is excellent for weight loss. It is high in protein (~35g per fillet) and omega-3 fatty acids. A 4-ounce serving is about 200 calories. Include it 2 to 3 times per week in your meal prep."
+},
+{
+"q": "What are good low calorie shrimp recipes?",
+"a": "Low calorie shrimp options: shrimp stir-fry over cauliflower rice (~250 cal), shrimp lettuce tacos with mango salsa (~220 cal), lemon garlic shrimp skewers (~180 cal per serving), and shrimp and vegetable soup (~200 cal per bowl)."
+},
+{
+"q": "How do I cook cod for meal prep?",
+"a": "Bake cod at 425 degrees F for 12 to 14 minutes after seasoning with lemon, garlic, paprika, salt and pepper. Cod is very mild and works well with bold seasonings. It keeps in the fridge for 3 to 4 days."
+},
+{
+"q": "What is a good canned tuna recipe?",
+"a": "Mix one can of drained tuna with half a mashed avocado, lemon juice, diced red onion, salt and pepper for a healthy tuna salad. Serve on cucumber slices or in lettuce cups. About 200 calories."
+},
+{
+"q": "Can I meal prep shrimp?",
+"a": "Yes, cooked shrimp keeps well in the fridge for 3 to 4 days. Cook a large batch in a skillet with garlic and lemon, cool completely, and store in airtight containers. Add to salads, bowls, stir-fries, and wraps throughout the week."
+},
+{
+"q": "What fish is best for weight loss?",
+"a": "The best fish for weight loss are cod, tilapia, flounder, and tuna for their low calorie and high protein content. Salmon is slightly higher in calories but excellent for omega-3s. All fish are superior to red meat for a calorie deficit."
+},
+{
+"q": "How do I make fish tacos that are healthy?",
+"a": "Healthy fish tacos: season tilapia fillets with cumin, chili powder, garlic, salt, and lime juice. Bake at 400 degrees F for 12 minutes. Serve in large lettuce leaves with shredded cabbage, pico de gallo, and plain Greek yogurt. About 280 calories per serving."
+},
+{
+"q": "What is a good tilapia recipe for meal prep?",
+"a": "Cajun baked tilapia: coat 4 tilapia fillets with Cajun seasoning, garlic powder, and a drizzle of olive oil. Bake at 400 degrees F for 12 to 15 minutes. Pair with roasted zucchini and half a cup of brown rice. About 300 calories per serving."
+},
+{
+"q": "Is canned tuna good for weight loss?",
+"a": "Yes, canned tuna in water is one of the best weight loss foods. It has about 120 to 130 calories per can with 25 to 27 grams of protein and virtually no fat. It is affordable, shelf-stable, and takes seconds to prepare."
+},
+{
+"q": "How do I make a tuna pasta for weight loss?",
+"a": "Use 2 ounces of whole wheat pasta per serving. Toss with a can of tuna, cherry tomatoes, olive oil, lemon, capers, and fresh parsley. About 380 calories with 30 grams of protein."
+},
+{
+"q": "What are healthy seafood options for meal prep?",
+"a": "Best seafood for meal prep: salmon (freezes well, ~200 cal per fillet), shrimp (cooks fast, ~120 cal per 4 oz), cod (very lean, ~90 cal per 4 oz), canned tuna (no cooking needed, ~130 cal per can), and tilapia (mild flavor, ~110 cal per fillet)."
+},
+{
+"q": "How long does cooked fish last in the fridge?",
+"a": "Cooked fish lasts 3 to 4 days in the fridge in an airtight container. Shrimp also lasts 3 to 4 days cooked. Freeze additional portions raw and cook fresh for the best quality."
+},
+{
+"q": "What can I make with canned salmon?",
+"a": "Canned salmon patties: mix canned salmon with a beaten egg, breadcrumbs, diced onion, and lemon juice. Pan-fry until golden. About 200 calories per patty with 22 grams of protein."
+},
+{
+"q": "How do I make shrimp and cauliflower rice?",
+"a": "Saute minced garlic in a little olive oil, add 1 pound of shrimp and cook 2 to 3 minutes per side. Remove shrimp and add cauliflower rice to the pan with soy sauce, ginger, and sesame oil. Stir-fry 3 to 4 minutes, add shrimp back. About 270 calories per serving."
+},
+{
+"q": "How do I season fish for weight loss?",
+"a": "Season fish without adding many calories using: lemon juice, garlic, fresh herbs like dill and parsley, paprika, cumin, chili flakes, and black pepper. Avoid heavy sauces and butter. A light drizzle of olive oil is enough."
+},
+{
+"q": "What is a good mahi mahi recipe?",
+"a": "Grilled mahi-mahi with mango salsa: season with garlic, lime, cumin, salt and pepper. Grill 4 minutes per side. Top with diced mango, red onion, cilantro, and lime juice. About 280 calories with 30 grams of protein."
+},
+{
+"q": "Can I freeze raw salmon for meal prep?",
+"a": "Yes, raw salmon freezes well for up to 3 months. Wrap individual fillets tightly in plastic wrap, then place in a freezer bag. Thaw overnight in the refrigerator. Never thaw fish at room temperature."
+},
+{
+"q": "Is shrimp high in protein?",
+"a": "Yes, shrimp is very high in protein and low in calories. A 4-ounce serving has about 120 calories and 23 grams of protein. It is one of the best protein sources for weight loss meal prep."
+},
+{
+"q": "What is a good white fish recipe for weight loss?",
+"a": "Herb-crusted cod: mix breadcrumbs, parsley, garlic, lemon zest, and olive oil. Press onto 4 cod fillets and bake at 425 degrees F for 14 minutes. About 220 calories per fillet with 28 grams of protein."
+},
+{
+"q": "How do I make a healthy fish soup?",
+"a": "Light fish and vegetable soup: simmer diced white fish with carrots, celery, onion, garlic, diced tomatoes, and low-sodium broth for 15 minutes. Season with thyme and lemon. About 200 calories per bowl with 22 grams of protein."
+},
+{
+"q": "What is a good lemon garlic shrimp recipe?",
+"a": "Lemon garlic shrimp: saute 1 pound of shrimp in a pan with olive oil, minced garlic, lemon juice, red pepper flakes, salt and pepper for 2 to 3 minutes per side. Serve over zucchini noodles. About 200 calories per serving."
+},
+{
+"q": "What is a good baked salmon side dish?",
+"a": "Great sides for baked salmon: roasted asparagus (~30 cal per cup), steamed broccoli (~55 cal per cup), half a cup of quinoa (~110 cal), a simple green salad (~50 cal), or roasted sweet potato (~100 cal for half a medium)."
+},
+{
+"q": "What are some vegetarian meal prep ideas for weight loss?",
+"a": "Great vegetarian options: lentil soup (~250 cal), black bean and sweet potato burrito bowls (~380 cal), chickpea and spinach curry (~400 cal), egg muffins (~150 cal for 2), and Greek salad with chickpeas (~300 cal)."
+},
+{
+"q": "Give me a vegan meal prep recipe.",
+"a": "Vegan chickpea curry: saute onion, garlic, and ginger in olive oil. Add chickpeas, diced tomatoes, light coconut milk, spinach, and curry powder. Simmer 15 minutes. Divide over brown rice. About 420 calories per serving."
+},
+{
+"q": "What can vegetarians eat for high protein meal prep?",
+"a": "High protein vegetarian options: Greek yogurt parfaits (20g protein), egg frittatas (18g per serving), edamame and tofu stir-fry (22g), lentil soup (18g), cottage cheese bowls (25g), and black bean tacos (16g)."
+},
+{
+"q": "What are good vegan sources of protein for weight loss?",
+"a": "Top vegan proteins: lentils (18g per cooked cup, ~230 cal), chickpeas (15g per cup, ~270 cal), tofu (20g per cup, ~180 cal), edamame (17g per cup, ~190 cal), tempeh (31g per cup, ~320 cal)."
+},
+{
+"q": "Is it possible to lose weight on a vegan diet?",
+"a": "Yes, a well-planned vegan diet is very effective for weight loss. It is naturally high in fiber and low in saturated fat. Track calories and ensure adequate protein from legumes, tofu, and tempeh."
+},
+{
+"q": "What are good vegetarian lunch ideas?",
+"a": "Vegetarian lunch options: lentil soup with a side salad (~280 cal), veggie grain bowl with tahini (~400 cal), avocado and egg toast (~300 cal), and black bean burrito bowl (~380 cal)."
+},
+{
+"q": "What is a good tofu meal prep recipe?",
+"a": "Baked tofu bowls: press and cube extra-firm tofu, toss with soy sauce, garlic, ginger, and sesame oil. Bake at 400 degrees F for 25 to 30 minutes until crispy. Serve over rice with edamame and shredded carrots. About 350 calories per serving."
+},
+{
+"q": "How do I get enough protein without eating meat?",
+"a": "To hit your protein target without meat: eat eggs and Greek yogurt daily, include legumes at every meal, use tofu or tempeh in stir-fries, snack on edamame or cottage cheese, and add hemp or chia seeds to meals."
+},
+{
+"q": "What is a good plant-based meal prep for the week?",
+"a": "A full week of plant-based meal prep: Monday and Tuesday lentil soup, Wednesday and Thursday tofu stir-fry over rice, Friday chickpea curry, with overnight oats for breakfast and fruit and nut snacks between meals."
+},
+{
+"q": "What are good vegan dinner ideas?",
+"a": "Vegan dinner options: lentil and vegetable curry over brown rice (~420 cal), black bean tacos in corn tortillas with salsa (~380 cal), roasted vegetable and quinoa bowl with tahini (~400 cal), and tofu and broccoli stir-fry (~350 cal)."
+},
+{
+"q": "How do I meal prep tofu?",
+"a": "Press a block of extra-firm tofu for 15 minutes. Cube, season, and bake at 400 degrees F for 25 to 30 minutes, flipping halfway. Store in the fridge for up to 5 days. Add to stir-fries, bowls, and salads throughout the week."
+},
+{
+"q": "What is a good black bean recipe for weight loss?",
+"a": "Black bean tacos: warm canned black beans with cumin, garlic, and chili powder. Serve in romaine lettuce cups with pico de gallo, sliced avocado, and plain Greek yogurt. About 320 calories per serving with 15 grams of plant protein."
+},
+{
+"q": "What are good lentil recipes for meal prep?",
+"a": "Lentil options: red lentil soup (~250 cal), lentil and vegetable curry (~350 cal), lentil stuffed bell peppers (~300 cal), French lentil salad with roasted vegetables (~320 cal), and lentil and spinach stew (~280 cal)."
+},
+{
+"q": "How do I make a vegetarian chili?",
+"a": "Three-bean vegetarian chili: saute onion, garlic, and bell pepper. Add kidney beans, black beans, chickpeas, canned diced tomatoes, chili powder, cumin, and smoked paprika. Simmer 25 minutes. About 280 calories per serving with 14 grams of protein."
+},
+{
+"q": "What vegan foods are high in fiber?",
+"a": "High fiber vegan foods: lentils (15g per cup), black beans (15g per cup), split peas (16g per cup), chickpeas (12g per cup), oats (4g per cup), avocado (10g per fruit), edamame (8g per cup), and chia seeds (10g per ounce)."
+},
+{
+"q": "What is a good vegetarian breakfast for weight loss?",
+"a": "Vegetarian breakfast options: veggie egg muffins (~150 cal for 2), Greek yogurt with berries and granola (~250 cal), overnight oats with chia seeds (~300 cal), avocado toast on whole grain bread (~280 cal), and a spinach and egg white scramble (~180 cal)."
+},
+{
+"q": "How do I make a vegan protein smoothie?",
+"a": "Blend 1 cup unsweetened almond milk, 1 frozen banana, 2 tablespoons peanut butter, 1 tablespoon chia seeds, a handful of spinach, and a scoop of plant protein powder. About 380 calories with 25 to 30 grams of protein."
+},
+{
+"q": "What are good egg meal prep ideas?",
+"a": "Eggs for meal prep: hard-boiled eggs (store peeled for 5 days), egg muffins baked in a muffin tin with vegetables (prep a dozen at once), a big frittata sliced into portions, or scrambled eggs stored for reheating in the week."
+},
+{
+"q": "What is a good quinoa meal prep recipe?",
+"a": "Quinoa power bowls: cook a large pot of quinoa. Divide into containers with roasted sweet potato, steamed broccoli, roasted chickpeas, and a drizzle of tahini-lemon dressing. About 420 calories per bowl with 15 grams of plant protein."
+},
+{
+"q": "What are good high fiber vegetarian meals?",
+"a": "High fiber vegetarian meals: three-bean chili (~14g fiber), lentil soup (~12g fiber), chickpea curry (~10g fiber), black bean burrito bowl (~13g fiber), and a roasted vegetable quinoa bowl (~9g fiber)."
+},
+{
+"q": "Can I build muscle on a vegetarian diet?",
+"a": "Yes, with adequate protein intake you can build muscle on a vegetarian diet. Aim for 0.7 to 1 gram of protein per pound of body weight using eggs, Greek yogurt, legumes, tofu, tempeh, and protein powders."
+},
+{
+"q": "What is a good tempeh recipe?",
+"a": "Tempeh stir-fry: slice tempeh and marinate in soy sauce, garlic, ginger, and a little maple syrup. Pan-fry until golden. Add broccoli, snap peas, and bell peppers. Serve over rice. About 380 calories with 28 grams of protein."
+},
+{
+"q": "What are good vegan snack ideas?",
+"a": "Vegan snacks: edamame (~120 cal per cup), apple with almond butter (~200 cal), hummus with vegetables (~150 cal), a small handful of mixed nuts (~170 cal), roasted chickpeas (~120 cal per quarter cup)."
+},
+{
+"q": "How do I make a vegetarian stir-fry for meal prep?",
+"a": "Tofu and vegetable stir-fry: cube and bake tofu until crispy. Stir-fry broccoli, snap peas, carrots, and bell peppers with garlic, ginger, and soy sauce. Add tofu and toss. Serve over cauliflower rice. About 320 calories per serving."
+},
+{
+"q": "What is a good plant-based burger?",
+"a": "Black bean burgers: mash 1 can of black beans with breadcrumbs, an egg, minced onion, garlic, cumin, smoked paprika, salt and pepper. Form into 4 patties and bake at 375 degrees F for 20 minutes. About 250 calories per patty."
+},
+{
+"q": "How do I make a healthy vegetable soup?",
+"a": "Minestrone: saute onion, garlic, carrot, and celery. Add zucchini, diced tomatoes, white beans, vegetable broth, and Italian seasoning. Simmer 20 minutes. Add a small handful of whole grain pasta at the end. About 250 calories per bowl."
+},
+{
+"q": "What is a good vegan pasta recipe for weight loss?",
+"a": "Vegan pasta primavera: cook 2 ounces of whole wheat pasta per serving. Toss with sauteed garlic, cherry tomatoes, zucchini, spinach, olive oil, and lemon juice. Top with nutritional yeast for a cheesy flavor. About 380 calories per serving."
+},
+{
+"q": "How do I make a vegan Buddha bowl?",
+"a": "Vegan Buddha bowl: layer half a cup of brown rice, half a cup of roasted chickpeas, half a cup of steamed broccoli, shredded purple cabbage, sliced cucumber, and cherry tomatoes. Drizzle with tahini-lemon dressing. About 450 calories with 18 grams of protein."
+},
+{
+"q": "What is a good chickpea recipe for meal prep?",
+"a": "Roasted chickpea and vegetable sheet pan: drain and rinse 2 cans of chickpeas. Toss with cubed sweet potato, red onion, bell peppers, olive oil, cumin, and smoked paprika. Roast at 400 degrees F for 25 minutes. About 380 calories per serving."
+},
+{
+"q": "What are good sources of calcium for vegans?",
+"a": "Good vegan calcium sources: fortified plant milks (300mg per cup), tofu made with calcium sulfate (200mg per half cup), edamame (98mg per cup), white beans (130mg per cup), bok choy (160mg per cup), and broccoli (60mg per cup)."
+},
+{
+"q": "What can I eat for breakfast when trying to lose weight?",
+"a": "Low-calorie breakfasts: Greek yogurt with berries (~250 cal), two scrambled eggs with spinach (~200 cal), overnight oats with almond milk (~300 cal), or a protein smoothie (~280 cal). Prioritize protein to stay full until lunch."
+},
+{
+"q": "Give me some meal prep breakfast ideas.",
+"a": "Easy breakfast prep: overnight oats in mason jars (~280 cal), egg muffins in a muffin tin (~150 cal for 2), Greek yogurt parfait cups with berries (~250 cal), or turkey and veggie breakfast burritos (~350 cal each)."
+},
+{
+"q": "What is a good high protein breakfast for weight loss?",
+"a": "High protein breakfasts: 3-egg omelet with spinach and feta (~300 cal, 25g protein), cottage cheese with strawberries (~200 cal, 25g protein), protein smoothie with Greek yogurt and banana (~350 cal, 30g protein)."
+},
+{
+"q": "How do I make overnight oats for meal prep?",
+"a": "Mix half a cup rolled oats with half a cup unsweetened almond milk, a tablespoon of chia seeds, and a teaspoon of honey. Refrigerate overnight in a mason jar. Add fresh berries in the morning. About 280 calories. Make 5 jars on Sunday for the week."
+},
+{
+"q": "What is a good low calorie breakfast?",
+"a": "Low calorie breakfasts: a hard-boiled egg with a piece of fruit (~150 cal), plain Greek yogurt with a tablespoon of honey (~120 cal), half a cup of oatmeal with cinnamon (~150 cal), or a small smoothie with spinach and banana (~200 cal)."
+},
+{
+"q": "How do I make egg muffins for meal prep?",
+"a": "Whisk 8 eggs with a splash of milk, salt, and pepper. Divide diced vegetables and turkey bacon across a greased 12-cup muffin tin. Pour egg mixture over each. Bake at 350 degrees F for 20 to 22 minutes. Each muffin is about 80 calories. Store for 5 days."
+},
+{
+"q": "What are good meal prep smoothies for weight loss?",
+"a": "Batch prep smoothie packs: divide frozen fruit, spinach, and other solid ingredients into zip-lock bags and freeze. Each morning, blend one pack with 1 cup almond milk. About 280 calories per smoothie."
+},
+{
+"q": "What should I eat for breakfast before a workout?",
+"a": "Pre-workout breakfasts: a banana with a tablespoon of peanut butter (~200 cal), overnight oats (~280 cal), a small smoothie with oats and protein powder (~300 cal). Eat 30 to 60 minutes before exercising."
+},
+{
+"q": "Is oatmeal good for weight loss?",
+"a": "Yes, oatmeal is excellent for weight loss. It is high in fiber (4g per half cup) which slows digestion and keeps you full. Stick to plain rolled oats and add fruit instead of sugar. Half a cup dry makes a satisfying 150-calorie breakfast."
+},
+{
+"q": "How do I make a healthy breakfast burrito for meal prep?",
+"a": "Scramble 6 eggs with black beans, diced bell pepper, onion, and salsa. Divide across 4 whole wheat tortillas and roll tightly. Wrap in foil and refrigerate or freeze. Reheat in the microwave for 90 seconds. About 350 calories per burrito with 22 grams of protein."
+},
+{
+"q": "What is a good low carb breakfast?",
+"a": "Low carb breakfast options: egg and vegetable scramble (~200 cal, 2g carbs), Greek yogurt with nuts and berries (~250 cal, 15g carbs), avocado and egg on low-carb bread (~280 cal), or a cheese and vegetable frittata (~220 cal, 5g carbs)."
+},
+{
+"q": "How do I make a protein smoothie for weight loss?",
+"a": "Blend 1 cup unsweetened almond milk, 1 scoop protein powder, 1 frozen banana, a tablespoon of almond butter, and a handful of spinach. Total is about 320 to 350 calories with 28 to 30 grams of protein."
+},
+{
+"q": "What is a good breakfast for someone who is not hungry in the morning?",
+"a": "If you are not hungry in the morning, start small: a protein shake (~200 cal), a small Greek yogurt (~80 cal), or a hard-boiled egg (~80 cal). Eating something with protein prevents overeating later in the day."
+},
+{
+"q": "How do I make cottage cheese taste good for breakfast?",
+"a": "Mix plain cottage cheese with fresh berries and a drizzle of honey, or with sliced cucumber and cherry tomatoes for a savory version. You can also blend it into a smoothie. It adds about 25 grams of protein per cup."
+},
+{
+"q": "What are the best high fiber breakfast foods?",
+"a": "High fiber breakfast options: oatmeal with chia seeds (~8g fiber), overnight oats with berries (~9g fiber), whole grain avocado toast with an egg (~7g fiber), a smoothie with spinach and flaxseed (~6g fiber)."
+},
+{
+"q": "How do I make avocado toast healthy?",
+"a": "Use one slice of whole grain bread (~80 cal), half a mashed avocado (~120 cal), lemon juice, salt, and red pepper flakes. Top with a poached egg for extra protein. Total about 280 calories with 12 grams of protein."
+},
+{
+"q": "What is a good quick breakfast for weight loss?",
+"a": "Quick breakfasts under 5 minutes: Greek yogurt with granola (~250 cal), a protein shake (~300 cal), a hard-boiled egg with a banana (~160 cal), overnight oats ready from the fridge (~280 cal)."
+},
+{
+"q": "How many calories should breakfast be?",
+"a": "Breakfast should be 20 to 25% of your daily calorie goal. For a 1,500-calorie day, aim for 300 to 375 calories. Make sure breakfast includes protein to reduce hunger throughout the morning."
+},
+{
+"q": "Is Greek yogurt good for weight loss?",
+"a": "Yes, Greek yogurt is one of the best foods for weight loss. Plain non-fat Greek yogurt has about 80 to 100 calories per container with 15 to 17 grams of protein, which keeps you full and supports muscle retention during a calorie deficit."
+},
+{
+"q": "What is a good high protein low calorie breakfast?",
+"a": "High protein low calorie breakfasts: egg white omelet with vegetables (~150 cal, 20g protein), non-fat Greek yogurt with berries (~100 cal, 17g protein), cottage cheese with cucumber (~140 cal, 20g protein)."
+},
+{
+"q": "How do I make chia pudding for meal prep?",
+"a": "Mix 3 tablespoons of chia seeds with 1 cup of unsweetened almond milk and a teaspoon of vanilla extract. Stir well and refrigerate overnight. Top with fresh fruit in the morning. About 200 calories per serving. Make 5 at once for the week."
+},
+{
+"q": "What are good breakfast foods to buy for meal prep?",
+"a": "Meal prep breakfast staples: rolled oats, eggs, Greek yogurt, frozen berries, bananas, almond butter, chia seeds, whole grain bread, protein powder, and cottage cheese. These cover dozens of quick and healthy breakfast combinations."
+},
+{
+"q": "How do I make a frittata for meal prep?",
+"a": "Whisk 8 eggs with salt, pepper, and a splash of milk. Saute diced vegetables in an oven-safe skillet. Pour egg mixture over, cook on stovetop 2 minutes then bake at 375 degrees F for 12 to 15 minutes. Slice into 4 to 6 portions. About 200 calories per slice."
+},
+{
+"q": "What is a good healthy granola recipe?",
+"a": "Healthy granola: mix 2 cups rolled oats with 2 tablespoons honey, a tablespoon of coconut oil, cinnamon, and a pinch of salt. Spread on a lined baking sheet and bake at 325 degrees F for 20 to 25 minutes. About 150 calories per quarter cup serving."
+},
+{
+"q": "What is a good breakfast for building muscle while losing fat?",
+"a": "For body recomposition eat a high protein moderate carb breakfast: egg white omelet with spinach and whole grain toast (~320 cal, 30g protein), Greek yogurt with banana and protein granola (~380 cal, 30g protein)."
+},
+{
+"q": "What are good low calorie lunch ideas?",
+"a": "Healthy lunch options: mason jar salad with grilled chicken (~350 cal), turkey and avocado lettuce wraps (~300 cal), chickpea and vegetable soup (~280 cal), or a burrito bowl with cauliflower rice and shrimp (~380 cal)."
+},
+{
+"q": "What should I eat for dinner when dieting?",
+"a": "Good weight loss dinners: baked cod with sweet potato (~320 cal), ground turkey taco bowls (~380 cal), vegetable curry over brown rice (~350 cal), or stuffed bell peppers with lean ground beef (~370 cal)."
+},
+{
+"q": "What are some easy weeknight dinners for weight loss?",
+"a": "Quick dinners: sheet pan salmon with asparagus (20 min, ~370 cal), turkey zucchini noodle stir-fry (15 min, ~330 cal), baked chicken with broccoli (30 min, ~380 cal), or one-pot lentil soup (25 min, ~280 cal)."
+},
+{
+"q": "What should I make for dinner tonight?",
+"a": "Quick healthy dinner options: ground turkey taco bowls with cauliflower rice (~380 cal), stuffed bell peppers with lean beef (~370 cal), lemon garlic chicken with roasted vegetables (~400 cal), or a simple stir-fry with whatever protein you have (~330 cal)."
+},
+{
+"q": "What should I cook for dinner?",
+"a": "Easy dinner ideas: lemon garlic chicken with roasted vegetables (~400 cal), ground turkey stir-fry over cauliflower rice (~350 cal), lentil soup (~280 cal), or stuffed bell peppers with lean beef and tomatoes (~370 cal)."
+},
+{
+"q": "What are healthy dinner ideas for weight loss?",
+"a": "Healthy dinners: baked chicken breast with roasted broccoli and quinoa (~400 cal), turkey taco bowl with black beans (~380 cal), baked cod with sweet potato (~320 cal), tofu stir-fry with cauliflower rice (~320 cal), and lentil curry with brown rice (~380 cal)."
+},
+{
+"q": "What is a quick healthy dinner I can make in 20 minutes?",
+"a": "20-minute dinners: garlic shrimp over zucchini noodles (~250 cal), turkey and spinach quesadilla in a low-carb tortilla (~320 cal), egg and vegetable fried cauliflower rice (~300 cal), or a simple tuna salad bowl over greens (~220 cal)."
+},
+{
+"q": "What should I eat for lunch to lose weight?",
+"a": "Weight loss lunch ideas: grilled chicken salad with light vinaigrette (~300 cal), turkey lettuce wraps with mustard (~250 cal), a cup of lentil soup with a side salad (~280 cal), or a tuna salad stuffed into a bell pepper (~230 cal)."
+},
+{
+"q": "What is a healthy meal I can cook for dinner tonight?",
+"a": "Tonight's dinner options: baked chicken thighs with roasted sweet potato and broccoli (~400 cal), a simple ground turkey stir-fry with whatever vegetables you have (~350 cal), or a quick egg and vegetable scramble with whole grain toast (~300 cal)."
+},
+{
+"q": "What are good salad ideas for weight loss?",
+"a": "Weight loss salads: grilled chicken Caesar with light dressing (~300 cal), Greek salad with feta and chickpeas (~280 cal), tuna salad over mixed greens (~220 cal), and a chopped veggie salad with hard-boiled egg (~250 cal)."
+},
+{
+"q": "How do I make a mason jar salad for meal prep?",
+"a": "Layer in this order: dressing on the bottom, then hearty vegetables, grains, protein, lighter vegetables, and greens on top. Shake to coat when ready to eat. Build 5 jars on Sunday. About 300 to 400 calories each."
+},
+{
+"q": "What is a good meal prep lunch?",
+"a": "Good meal prep lunches: chicken and rice bowls (~400 cal), mason jar salads (~320 cal), turkey and avocado wraps (~350 cal), lentil soup with whole grain bread (~300 cal), and black bean burrito bowls with cauliflower rice (~360 cal)."
+},
+{
+"q": "What are good dinner ideas that are filling but low calorie?",
+"a": "Filling low calorie dinners: a large bowl of vegetable and chicken soup (~250 cal), turkey taco salad with beans (~360 cal), a big stir-fry with lots of vegetables and lean protein (~330 cal), and a hearty lentil and vegetable stew (~280 cal)."
+},
+{
+"q": "How do I make a burrito bowl for meal prep?",
+"a": "Burrito bowls: cook a batch of cauliflower rice or cilantro-lime rice. Brown ground turkey or grill chicken. Portion into containers with rice, protein, black beans, salsa, and shredded lettuce. About 380 to 420 calories."
+},
+{
+"q": "What is a good one pot dinner for weight loss?",
+"a": "One pot dinners: turkey and vegetable soup (~250 cal), lentil and spinach stew (~280 cal), chicken and vegetable broth-based stew (~300 cal), shrimp and cauliflower rice skillet (~280 cal), and a one pot Mexican chicken and rice (~380 cal)."
+},
+{
+"q": "What are good dinner recipes that use vegetables?",
+"a": "Vegetable-forward dinners: ratatouille (~200 cal per serving), roasted vegetable and egg frittata (~250 cal), stuffed zucchini boats with turkey (~320 cal), vegetable and chickpea curry (~380 cal), and cauliflower and lentil stew (~280 cal)."
+},
+{
+"q": "How do I make a healthy pasta for dinner?",
+"a": "Use 2 ounces of whole wheat pasta per serving. Pair with a tomato-based sauce and grilled chicken. Add lots of vegetables like spinach, mushrooms, and cherry tomatoes. Skip the cream sauce. About 400 calories per serving."
+},
+{
+"q": "What are good dinner ideas when I have no time to cook?",
+"a": "Fast no-cook dinners: tuna salad over greens (5 min, ~220 cal), rotisserie chicken with pre-washed salad (~350 cal), canned lentil soup with a side salad (~280 cal), or scrambled eggs and vegetables (~250 cal)."
+},
+{
+"q": "How do I make sheet pan meals for meal prep?",
+"a": "Sheet pan meals are perfect for batch cooking: arrange protein and chopped vegetables on one or two large pans, season with oil and spices, and roast at 400 to 425 degrees F for 20 to 30 minutes."
+},
+{
+"q": "What are good low carb dinner ideas?",
+"a": "Low carb dinners: grilled chicken with roasted vegetables (~300 cal, 8g carbs), baked salmon with asparagus (~350 cal, 6g carbs), ground beef stir-fry over cauliflower rice (~330 cal, 10g carbs), and zucchini noodles with shrimp and pesto (~250 cal, 9g carbs)."
+},
+{
+"q": "What is a good stuffed pepper recipe?",
+"a": "Stuffed bell peppers: mix 1 lb lean ground turkey with half a cup cooked rice, diced tomatoes, garlic, Italian seasoning, salt and pepper. Stuff into 4 hollowed bell peppers. Bake at 375 degrees F for 35 to 40 minutes. About 370 calories each."
+},
+{
+"q": "How do I make cauliflower rice stir-fry?",
+"a": "Heat a large pan and add riced cauliflower with a little sesame oil. Stir-fry for 4 to 5 minutes until slightly golden. Add diced vegetables, scrambled egg, soy sauce, garlic, and ginger. About 100 calories per cup of cauliflower rice."
+},
+{
+"q": "What is a good zucchini noodle recipe?",
+"a": "Zucchini noodles with turkey Bolognese: brown ground turkey with garlic, onion, and Italian seasoning. Add canned crushed tomatoes and simmer 15 minutes. Serve over spiralized zucchini noodles. About 320 calories with 30 grams of protein."
+},
+{
+"q": "What are good grain bowl ideas for weight loss?",
+"a": "Grain bowls: quinoa with roasted chicken and vegetables (~420 cal), brown rice with edamame and tofu (~380 cal), farro with roasted vegetables and feta (~360 cal), and buckwheat with mushrooms and spinach (~320 cal)."
+},
+{
+"q": "What is a good soup for weight loss dinner?",
+"a": "Soups for weight loss: turkey and vegetable soup (~250 cal), lentil soup (~280 cal), chicken noodle with zucchini instead of pasta (~220 cal), black bean soup (~270 cal), and tomato basil with white beans (~260 cal)."
+},
+{
+"q": "How do I make a healthy stir-fry?",
+"a": "Healthy stir-fry: cook protein first, remove, then stir-fry vegetables with garlic and ginger on high heat. Return protein and toss with soy sauce, a little honey, rice vinegar, and sesame oil. Serve over cauliflower rice. Under 350 calories."
+},
+{
+"q": "What is a good meal to cook when I am tired?",
+"a": "When you are tired, use your prepped ingredients: build a quick bowl with whatever protein, grain, and vegetable you have ready. Alternatively, scramble eggs with leftover vegetables (10 min, ~250 cal) or heat up soup from the freezer (5 min, ~270 cal)."
+},
+{
+"q": "How do I make healthy tacos for weight loss?",
+"a": "Healthy tacos: use lettuce cups or small corn tortillas. Fill with grilled chicken or lean ground beef, black beans, pico de gallo, shredded cabbage, and plain Greek yogurt. Two tacos are about 300 calories with 28 grams of protein."
+},
+{
+"q": "What are quick healthy dinner ideas under 400 calories?",
+"a": "Dinners under 400 calories: baked cod with vegetables (~320 cal), turkey lettuce tacos (~280 cal), egg and vegetable scramble with toast (~300 cal), lentil soup (~280 cal), grilled chicken with a large salad (~320 cal), and shrimp cauliflower fried rice (~290 cal)."
+},
+{
+"q": "What are good high volume low calorie dinner ideas?",
+"a": "High volume dinners: a large vegetable stir-fry with chicken over cauliflower rice (~330 cal), a big bowl of turkey and vegetable soup with a side salad (~300 cal total), and a giant salad with tuna and lots of toppings (~280 cal)."
+},
+{
+"q": "How do I make a healthy quesadilla?",
+"a": "Use one whole grain tortilla and fill with a quarter cup of black beans, salsa, and 2 tablespoons of low-fat cheese. Add grilled chicken. Cook in a dry pan over medium heat 2 to 3 minutes per side. About 320 calories with 22 grams of protein."
+},
+{
+"q": "What is a good curry recipe for weight loss?",
+"a": "Light chicken and vegetable curry: saute onion, garlic, and ginger. Add curry powder, diced chicken, canned tomatoes, and light coconut milk. Simmer 20 minutes. Serve over half a cup of brown rice. About 380 calories per serving."
+},
+{
+"q": "What are good dinner ideas for someone with a small calorie budget?",
+"a": "Dinners under 350 calories: big vegetable soup (~250 cal), grilled fish with a large salad (~300 cal), egg white frittata with vegetables (~220 cal), shrimp lettuce tacos (~260 cal), and turkey meatballs with zucchini noodles (~320 cal)."
+},
+{
+"q": "How do I make healthy pizza for weight loss?",
+"a": "Use a whole wheat flatbread as the base. Top with a thin layer of tomato sauce, low-fat mozzarella, and plenty of vegetables. Bake at 400 degrees F for 10 to 12 minutes. About 300 to 350 calories per serving."
+},
+{
+"q": "What is a good dinner I can make with just eggs?",
+"a": "Eggs are a complete protein and incredibly versatile for dinner. A large vegetable frittata (3 to 4 eggs with spinach, bell peppers, mushrooms, and a little feta) baked at 375 degrees F for 12 minutes is about 280 calories with 22 grams of protein."
+},
+{
+"q": "What are some low calorie snacks?",
+"a": "Good low calorie snacks: apple with almond butter (~150 cal), hard-boiled egg (~80 cal), celery and hummus (~100 cal), mixed nuts (~170 cal), or a rice cake with peanut butter (~130 cal)."
+},
+{
+"q": "What are good snacks for weight loss?",
+"a": "Best weight loss snacks are high in protein or fiber: Greek yogurt (~100 cal, 17g protein), hard-boiled egg (~80 cal), small apple with string cheese (~150 cal), edamame (~120 cal), or a handful of almonds (~160 cal)."
+},
+{
+"q": "What can I snack on at night without ruining my diet?",
+"a": "Light evening snacks: small bowl of cottage cheese with cinnamon (~120 cal), air-popped popcorn (~30 cal), turkey slices rolled in lettuce (~80 cal), or herbal tea with a small square of dark chocolate (~60 cal). Keep it under 150 calories."
+},
+{
+"q": "What are good high protein snacks?",
+"a": "High protein snacks: Greek yogurt (17g protein, ~100 cal), cottage cheese (14g per half cup, ~110 cal), hard-boiled egg (6g, ~80 cal), a small can of tuna (25g, ~130 cal), string cheese (6g, ~80 cal), and edamame (17g per cup, ~190 cal)."
+},
+{
+"q": "What snacks can I meal prep for the week?",
+"a": "Meal prep snacks: boil a dozen eggs, portion out bags of mixed nuts, cut and bag vegetables with hummus, divide Greek yogurt into small containers with berries, and prep apple slices with almond butter. All take minutes to assemble on Sunday."
+},
+{
+"q": "What are 100 calorie snack ideas?",
+"a": "Snacks around 100 calories: one hard-boiled egg (~80 cal), hummus with cucumber slices (~100 cal), a medium apple (~95 cal), a cup of air-popped popcorn (~30 cal), string cheese (~80 cal), and a small orange with 5 almonds (~100 cal)."
+},
+{
+"q": "How do I stop snacking on junk food?",
+"a": "Remove junk food from the house and replace with prepared healthy snacks, eat regular high-protein meals to reduce cravings, drink water when a craving hits and wait 10 minutes, and pre-portion snacks so you cannot overeat mindlessly."
+},
+{
+"q": "What are good pre-workout snacks?",
+"a": "Pre-workout snacks 30 to 60 minutes before exercise: banana with a tablespoon of peanut butter (~200 cal), a small bowl of oatmeal (~150 cal), rice cake with almond butter (~130 cal), or a small protein smoothie (~200 cal)."
+},
+{
+"q": "What are good post-workout snacks?",
+"a": "Post-workout snacks should combine protein and carbs: Greek yogurt with fruit (~220 cal), a protein shake with a banana (~280 cal), cottage cheese with pineapple (~180 cal), or hard-boiled eggs with an apple (~200 cal). Eat within 30 to 60 minutes after exercise."
+},
+{
+"q": "Are protein bars good for weight loss?",
+"a": "Protein bars can support weight loss if chosen carefully. Look for bars with at least 15 grams of protein, under 250 calories, and less than 10 grams of added sugar. Good options include RXBARs, Quest Bars, and Built Bars."
+},
+{
+"q": "What are good low carb snacks?",
+"a": "Low carb snacks: hard-boiled eggs (~80 cal, 1g carb), string cheese (~80 cal, 1g carb), a handful of almonds (~160 cal, 6g carbs), cucumber slices with tuna (~100 cal, 3g carbs), and celery with almond butter (~120 cal, 4g carbs)."
+},
+{
+"q": "Is hummus good for weight loss?",
+"a": "Hummus is a nutritious snack when eaten in moderation. A quarter cup has about 100 calories with 5 grams of protein and 4 grams of fiber. Pair it with raw vegetables for a filling snack. Avoid overeating as the calories add up quickly."
+},
+{
+"q": "What are good filling snacks for weight loss?",
+"a": "Filling snacks: cottage cheese with fruit, Greek yogurt with a tablespoon of nut butter, an apple with string cheese, a small bowl of edamame, and celery with peanut butter. All combine protein and fiber for long-lasting fullness."
+},
+{
+"q": "What are healthy office snacks for weight loss?",
+"a": "Easy desk snacks: pre-portioned bags of mixed nuts, individual Greek yogurt containers, protein bars, baby carrots with single-serve hummus, a piece of fruit with nut butter packets, and hard-boiled eggs."
+},
+{
+"q": "Are nuts good for weight loss?",
+"a": "Nuts are nutritious but calorie-dense. A small handful (about 1 ounce) provides healthy fats, protein, and fiber at about 160 to 180 calories. Pre-portion them to avoid overeating. They are satisfying and can reduce overall calorie intake when eaten mindfully."
+},
+{
+"q": "What is a good afternoon snack for weight loss?",
+"a": "Good mid-afternoon snacks: apple with 10 almonds (~170 cal), Greek yogurt (~100 cal), baby carrots with hummus (~100 cal), a hard-boiled egg (~80 cal), or a small protein shake (~150 cal)."
+},
+{
+"q": "What are good sweet snacks for weight loss?",
+"a": "Healthier sweet snacks: a small square of dark chocolate (~60 cal), a cup of berries (~50 to 70 cal), frozen banana slices (~50 cal), a medjool date with almond butter (~110 cal), and plain Greek yogurt with honey and cinnamon (~120 cal)."
+},
+{
+"q": "What are good savory snacks for weight loss?",
+"a": "Savory weight loss snacks: cucumber slices with tuna (~100 cal), celery with peanut butter (~120 cal), hard-boiled egg with hot sauce (~80 cal), cottage cheese with everything bagel seasoning (~110 cal), and turkey slices with mustard (~60 cal)."
+},
+{
+"q": "How do I stop late night snacking?",
+"a": "To stop late night snacking: brush your teeth after dinner, keep only healthy options in the house, drink herbal tea which can satisfy the urge to eat, eat a satisfying high-protein dinner, and identify whether you are genuinely hungry or bored or stressed."
+},
+{
+"q": "What are good snacks under 200 calories?",
+"a": "Snacks under 200 calories: apple with 8 almonds (~170 cal), Greek yogurt with berries (~150 cal), a rice cake with almond butter (~130 cal), two hard-boiled eggs (~160 cal), half a cup edamame in shell (~95 cal), and cottage cheese with cucumber (~150 cal)."
+},
+{
+"q": "How do I control my portions when meal prepping?",
+"a": "Use a kitchen scale for proteins, measuring cups for grains and liquids. A palm-sized portion for protein, cupped hand for carbs, fist for vegetables, thumb for fats. Pre-portioning into containers removes guesswork."
+},
+{
+"q": "What is a good portion size for chicken?",
+"a": "A standard portion of cooked chicken is 3 to 4 ounces, about the size of a deck of cards. This provides 25 to 30 grams of protein at 130 to 160 calories."
+},
+{
+"q": "How much rice should I eat per meal when dieting?",
+"a": "Half a cup of cooked rice is a reasonable portion at about 100 calories. Replace half with cauliflower rice to cut calories while maintaining volume."
+},
+{
+"q": "How do I avoid overeating when meal prepping?",
+"a": "Pre-portion meals into individual containers immediately after cooking. Avoid eating from the pot. Having portioned meals ready eliminates the temptation to add extra servings."
+},
+{
+"q": "How do I measure food without a scale?",
+"a": "Use your hand: a palm for protein, a cupped hand for grains, a fist for vegetables, your thumb for fats. A serving of cheese is about the size of two dice. A serving of nuts fits in the palm of your closed fist."
+},
+{
+"q": "What is a healthy portion size for pasta?",
+"a": "Two ounces of dry pasta is one serving at about 200 calories cooked. This looks small dry but expands significantly. Measure dry before cooking for accuracy."
+},
+{
+"q": "How much avocado should I eat per day?",
+"a": "A quarter to half a medium avocado per day is a reasonable portion for someone on a calorie deficit. Half an avocado has about 120 calories and 10 grams of healthy fat. Measure carefully as it is calorie-dense."
+},
+{
+"q": "What is the correct portion of peanut butter?",
+"a": "One serving of peanut butter is 2 tablespoons at about 190 calories and 8 grams of protein. Measure carefully rather than scooping directly from the jar."
+},
+{
+"q": "How do I know if I am eating too much?",
+"a": "Signs you are eating too much: you regularly feel uncomfortably full, you are not losing weight despite trying, you frequently eat out of boredom rather than hunger, and your portions have gradually grown. Track your food for a few days to get an accurate picture."
+},
+{
+"q": "What is the right portion size for salmon?",
+"a": "A standard portion of salmon is 3 to 4 ounces at about 150 to 200 calories with 25 to 30 grams of protein."
+},
+{
+"q": "How many eggs can I eat per day for weight loss?",
+"a": "Two to three whole eggs per day is a reasonable amount for most healthy people. If you want more volume, add extra egg whites at only 17 calories each with 4 grams of protein."
+},
+{
+"q": "How much olive oil should I use when cooking?",
+"a": "Limit olive oil to 1 teaspoon per serving when cooking for weight loss. One tablespoon has 120 calories. Use a cooking spray or a silicone brush to apply a thin, even layer instead of pouring directly from the bottle."
+},
+{
+"q": "What is a healthy portion of sweet potato?",
+"a": "One medium sweet potato has roughly 100 to 130 calories. For weight loss, stick to one medium potato per meal as part of a balanced plate with protein and vegetables."
+},
+{
+"q": "How do I portion my meals when eating out?",
+"a": "Ask for a box at the start of the meal and immediately pack half your entree to take home. Also ask for dressings and sauces on the side and use only half."
+},
+{
+"q": "How many ounces of protein should I eat per meal?",
+"a": "Aim for 4 to 6 ounces of lean cooked protein per meal. This provides 25 to 40 grams of protein which is optimal for satiety and muscle retention."
+},
+{
+"q": "What is a proper serving size of cheese?",
+"a": "A serving of cheese is 1 ounce, roughly the size of two dice, at about 100 to 120 calories. Measure carefully and use it as a flavor accent rather than a main ingredient."
+},
+{
+"q": "How do I portion snacks for the week?",
+"a": "On Sunday, divide snacks into individual portions in small bags or containers. For nuts, measure out 1-ounce portions. For vegetables, cut and bag serving-sized amounts. This eliminates mindless overeating throughout the week."
+},
+{
+"q": "What is the right portion of quinoa?",
+"a": "Half a cup of cooked quinoa is one serving at about 110 calories with 4 grams of protein. Quinoa expands significantly when cooked, so half a cup dry makes about 1.5 cups cooked."
+},
+{
+"q": "How do I practice mindful eating?",
+"a": "Mindful eating means eating slowly, chewing thoroughly, putting down your fork between bites, and paying attention to hunger and fullness cues. Avoid eating while watching TV. Stop eating when you feel about 80% full."
+},
+{
+"q": "What is the right portion of nuts for weight loss?",
+"a": "A 1-ounce portion of nuts is a good serving size: roughly 23 almonds, 14 walnut halves, or 18 cashews at about 160 to 180 calories. Pre-portion nuts into small bags to avoid overeating."
+},
+{
+"q": "What should I put on my grocery list for meal prepping?",
+"a": "A weight loss grocery list: proteins (chicken breast, ground turkey, eggs, canned tuna, Greek yogurt), vegetables (broccoli, spinach, bell peppers, zucchini, cauliflower), complex carbs (brown rice, quinoa, sweet potatoes, oats), healthy fats (avocado, olive oil, almonds), and flavor staples."
+},
+{
+"q": "How do I grocery shop for a week of healthy meals?",
+"a": "Plan meals first, then write a list by category: produce, proteins, grains, pantry items. Stick to the store perimeter. Buy proteins and grains in bulk. Never shop hungry."
+},
+{
+"q": "What are cheap healthy foods for meal prep?",
+"a": "Budget-friendly staples: dried lentils and beans, canned tuna and salmon, frozen vegetables, eggs, oats, brown rice, bananas, cabbage, sweet potatoes, and bone-in chicken thighs."
+},
+{
+"q": "How do I meal prep on a budget?",
+"a": "Build meals around cheap proteins: eggs, canned tuna, dried lentils, chicken thighs. Buy frozen vegetables. Cook large batches of grains. Plan 2 to 3 base recipes and mix and match. A week of prepped meals can come in under $40."
+},
+{
+"q": "What are good pantry staples for weight loss?",
+"a": "Essential pantry items: canned beans and lentils, canned tomatoes, low-sodium broth, oats, brown rice, quinoa, whole wheat pasta, olive oil spray, low-sodium soy sauce, and spices like cumin, paprika, garlic powder, chili powder."
+},
+{
+"q": "How do I avoid buying junk food at the grocery store?",
+"a": "Shop with a written list and stick to it. Eat before shopping. Avoid the snack, candy, and soda aisles entirely. Shop the perimeter of the store where whole foods are located."
+},
+{
+"q": "What frozen foods are healthy for weight loss?",
+"a": "Good frozen options: frozen vegetables (broccoli, spinach, cauliflower rice, edamame), frozen fruit for smoothies, frozen shrimp, and single-ingredient frozen foods. Avoid frozen meals with high sodium and added sauces."
+},
+{
+"q": "What fresh produce should I buy for meal prep?",
+"a": "Stock up on: broccoli, spinach, mixed greens, bell peppers, zucchini, sweet potatoes, onions, garlic, cauliflower, cucumbers, cherry tomatoes, and lemons. These are versatile and low-calorie."
+},
+{
+"q": "How do I buy chicken in bulk for meal prep?",
+"a": "Buy a large pack of chicken breasts or thighs from a warehouse store for the best price per pound. Portion into groups of 4, seal in zip-lock bags, and freeze what you will not use in the next 2 days."
+},
+{
+"q": "What condiments are low calorie?",
+"a": "Low calorie condiments: hot sauce (~5 cal per serving), mustard (~10 cal), salsa (~20 cal per quarter cup), lemon juice (~4 cal), soy sauce (~10 cal per tablespoon), and plain Greek yogurt as a substitute for mayo or sour cream."
+},
+{
+"q": "Is organic food better for weight loss?",
+"a": "Organic food is not more effective for weight loss than conventional food. Calorie content is the same. Do not let organic labeling distract from total calorie intake."
+},
+{
+"q": "What are good meal prep proteins to buy?",
+"a": "Best proteins to buy: chicken breasts or thighs, ground turkey (93% lean), eggs, canned tuna in water, salmon fillets, shrimp, Greek yogurt, cottage cheese, and canned or dried lentils and beans."
+},
+{
+"q": "How much food should I buy for a week of meal prep?",
+"a": "For one person: 4 to 5 pounds of protein, 2 to 3 pounds of mixed vegetables, 1 to 2 cups dry grains, a dozen eggs, and 5 to 6 containers of Greek yogurt covers most meals and snacks for the week."
+},
+{
+"q": "What spices should I buy for healthy cooking?",
+"a": "Essential spices: garlic powder, onion powder, smoked paprika, cumin, chili powder, Italian seasoning, black pepper, cayenne, turmeric, ginger, and cinnamon. These add big flavor without calories."
+},
+{
+"q": "Is it cheaper to meal prep or eat out?",
+"a": "Meal prepping is significantly cheaper. A home-cooked meal costs $2 to $5 per serving while restaurant meals typically cost $10 to $20 or more. Meal prepping for a week can save $50 to $100 compared to daily restaurant lunches and dinners."
+},
+{
+"q": "What oils are best for weight loss cooking?",
+"a": "The best oils are olive oil and avocado oil. Use cooking spray to minimize the amount used. All oils are calorie-dense at about 120 calories per tablespoon, so measure carefully."
+},
+{
+"q": "How do I choose a healthy bread?",
+"a": "Look for bread with whole grain as the first ingredient, at least 2 grams of fiber per slice, and under 100 calories per slice. Avoid bread with high fructose corn syrup or enriched flour as the first ingredient."
+},
+{
+"q": "What dairy products are good for weight loss?",
+"a": "Good dairy options: plain non-fat Greek yogurt (~80 cal per container), cottage cheese (~110 cal per half cup), skim or low-fat milk (~80 cal per cup), and small amounts of hard cheese as a flavor accent."
+},
+{
+"q": "What is a good complete grocery list for weight loss meal prep?",
+"a": "Complete weekly grocery list: chicken breasts, ground turkey, eggs, canned tuna, Greek yogurt, broccoli, spinach, bell peppers, zucchini, cauliflower, sweet potatoes, brown rice, quinoa, canned black beans, oats, frozen berries, almonds, olive oil spray, lemons, garlic, and your preferred spices."
+},
+{
+"q": "What are good meal prep ingredients to always have on hand?",
+"a": "Always-stocked meal prep staples: eggs, canned beans, frozen vegetables, chicken in the freezer, oats, brown rice, canned tuna, Greek yogurt, garlic, onions, lemons, olive oil spray, and a full spice rack. With these you can always put together a healthy meal."
+},
+{
+"q": "What can I substitute for white rice to save calories?",
+"a": "Cauliflower rice has about 25 calories per cup vs 200 for white rice. Other options: shredded cabbage, broccoli rice, or shirataki rice. A 50/50 mix eases the transition."
+},
+{
+"q": "How can I make pasta lower in calories?",
+"a": "Use zucchini noodles, spaghetti squash, or hearts of palm pasta. Or use 2 ounces of whole wheat pasta with a tomato-based sauce instead of cream."
+},
+{
+"q": "What can I use instead of oil when cooking to cut calories?",
+"a": "Use vegetable broth, water, or a light cooking spray instead of pouring oil. In baking, replace oil with unsweetened applesauce."
+},
+{
+"q": "What is a healthy substitute for bread?",
+"a": "Use large lettuce leaves, cucumber slices, portobello mushroom caps, or rice cakes. Choose thin-sliced whole grain bread around 45 calories per slice if you want actual bread."
+},
+{
+"q": "Can I substitute Greek yogurt for sour cream?",
+"a": "Yes, plain non-fat Greek yogurt works as a 1:1 sour cream substitute with more protein and fewer calories."
+},
+{
+"q": "What can I use instead of sugar in recipes?",
+"a": "Use unsweetened applesauce, mashed banana, monk fruit sweetener, cinnamon, vanilla extract, or stevia to reduce or eliminate added sugar."
+},
+{
+"q": "What can I use instead of butter?",
+"a": "Use avocado spread on toast, olive oil for sauteing (sparingly), unsweetened applesauce in baking, or plain Greek yogurt in sauces."
+},
+{
+"q": "What can I substitute for heavy cream?",
+"a": "Replace heavy cream with light coconut milk, pureed silken tofu, evaporated skim milk, or Greek yogurt thinned with a little broth. All have significantly fewer calories."
+},
+{
+"q": "What can I use instead of mayonnaise?",
+"a": "Replace mayo with plain Greek yogurt (same creamy texture, far fewer calories), avocado, hummus, or Dijon mustard depending on the recipe. A tablespoon of Greek yogurt has about 9 calories vs 90 for mayo."
+},
+{
+"q": "What can I substitute for regular flour in baking?",
+"a": "Lower calorie flour options: almond flour (~160 cal per quarter cup, higher protein), oat flour (made by blending oats, ~110 cal per quarter cup), or chickpea flour (~110 cal per quarter cup)."
+},
+{
+"q": "How do I substitute cauliflower for mashed potatoes?",
+"a": "Steam cauliflower until very soft. Blend or mash with garlic, a little butter or Greek yogurt, salt, pepper, and chives. About 75 calories per cup versus 220 for mashed potatoes and very similar in texture."
+},
+{
+"q": "What can I use instead of breadcrumbs?",
+"a": "Low calorie breadcrumb substitutes: crushed rice crackers, oat flour, finely chopped nuts, ground flaxseed, or grated parmesan."
+},
+{
+"q": "Can I substitute applesauce for oil in baking?",
+"a": "Yes, replace oil 1:1 with unsweetened applesauce in most baked goods. It reduces calories significantly while keeping the food moist."
+},
+{
+"q": "What can I use instead of tortillas for tacos?",
+"a": "Low calorie taco shells: large romaine or butter lettuce leaves, jicama slices, small corn tortillas, and cabbage leaves. Using lettuce cups cuts about 100 to 150 calories per two tacos."
+},
+{
+"q": "How do I make a low calorie salad dressing?",
+"a": "Blend olive oil, lemon juice, Dijon mustard, garlic, salt and pepper for a simple vinaigrette at about 45 calories per tablespoon. Or use salsa, plain Greek yogurt thinned with lemon juice, or balsamic vinegar."
+},
+{
+"q": "What can I substitute for cream cheese?",
+"a": "Replace cream cheese with plain Greek yogurt cream cheese, non-fat Greek yogurt in dips, blended cottage cheese, or avocado for a spreadable option."
+},
+{
+"q": "Can I use bananas instead of eggs in baking?",
+"a": "Half a ripe mashed banana can replace one egg in many baking recipes. It acts as a binder and adds natural sweetness. The result has a slightly banana flavor."
+},
+{
+"q": "What is a low calorie substitute for coconut milk?",
+"a": "Use light coconut milk instead of full-fat (half the calories), or unsweetened cashew milk or almond milk in curries for a very low-calorie alternative."
+},
+{
+"q": "How do I reduce calories in a recipe?",
+"a": "Ways to reduce recipe calories: replace oil with broth or spray, use half the amount of cheese and pick a stronger-flavored variety, replace heavy cream with Greek yogurt, and increase vegetable quantities while reducing starchy ingredients."
+},
+{
+"q": "What can I substitute for soy sauce to reduce sodium?",
+"a": "Use coconut aminos instead of soy sauce. It has about 25% less sodium and a slightly sweeter, milder flavor. Low-sodium soy sauce is another option. Use tamari for a gluten-free alternative."
+},
+{
+"q": "What can I use instead of pasta for weight loss?",
+"a": "Pasta alternatives: zucchini noodles (~20 cal per cup), spaghetti squash (~40 cal per cup), hearts of palm pasta (~20 cal per cup), shirataki noodles (~10 cal per cup), and edamame or chickpea pasta (~190 cal per cup, much higher protein)."
+},
+{
+"q": "What can I use instead of cheese to cut calories?",
+"a": "Use smaller amounts of a stronger-flavored variety like parmesan. For creamy texture without as many calories, use pureed butternut squash, nutritional yeast, or a blend of Greek yogurt and a little cheese."
+},
+{
+"q": "Is there a healthy substitute for chocolate?",
+"a": "For baking, use raw cacao powder (~12 cal per tablespoon). For snacking, dark chocolate with 70% or higher cacao content has more antioxidants. Portion to one small square at about 60 calories."
+},
+{
+"q": "What is a low calorie substitute for ice cream?",
+"a": "Frozen banana nice cream: blend frozen bananas until smooth for a creamy 100-calorie treat. Other options: frozen Greek yogurt bark, low-calorie brands like Halo Top, or a smaller portion of regular ice cream with fresh fruit."
+},
+{
+"q": "How do I make fried food healthier?",
+"a": "Use an air fryer which achieves a crispy texture with little to no added oil. Alternatively, coat food in cooking spray and bake on a wire rack at high heat. This cuts 100 to 200 calories per serving compared to pan-frying."
+},
+{
+"q": "What are some good freezer meal prep ideas?",
+"a": "Great freezer meals: turkey and vegetable chili (~300 cal), lentil soup (~250 cal), chicken and rice casserole (~400 cal), black bean and sweet potato burritos (~380 cal), and turkey meatballs (~200 cal per 4)."
+},
+{
+"q": "How long does meal prepped food last in the freezer?",
+"a": "Most cooked meals last 2 to 3 months in the freezer. Label every container with date and contents. Soups, stews, and chilis freeze best. Avoid freezing salads, raw vegetables, or cream-based sauces."
+},
+{
+"q": "Can I freeze meal prepped chicken?",
+"a": "Yes, cooked chicken freezes well for up to 3 months. Cool completely, then store in individual portions in airtight freezer bags. Thaw overnight in the fridge."
+},
+{
+"q": "What meals are best for batch cooking and freezing?",
+"a": "Best foods to batch cook and freeze: soups, stews, chilis, casseroles, meatballs, and bean dishes. Avoid freezing dishes with mayonnaise, raw greens, or whole boiled eggs."
+},
+{
+"q": "How do I reheat frozen meal prep food?",
+"a": "Thaw overnight in the fridge. Reheat soups and stews on the stovetop. Reheat solid meals in the microwave with a splash of water. Casseroles reheat well in the oven at 350 degrees F for 20 minutes."
+},
+{
+"q": "Can I freeze uncooked meal prep?",
+"a": "Yes, freeze raw marinated proteins, portioned raw vegetables for smoothies, and assembled uncooked freezer meals. Label with the date and cooking instructions."
+},
+{
+"q": "What containers should I use for freezer meal prep?",
+"a": "Use airtight freezer-safe containers or heavy-duty zip-lock freezer bags with excess air pressed out. Glass containers are safe for the freezer but leave room for expansion. Label with a permanent marker."
+},
+{
+"q": "How do I freeze soup for meal prep?",
+"a": "Let soup cool completely, then portion into individual containers or freeze flat in zip-lock bags. Leave an inch of headspace. Thaw overnight in the fridge or reheat directly from frozen on the stovetop."
+},
+{
+"q": "Can I freeze cooked rice for meal prep?",
+"a": "Yes, cooked rice freezes perfectly. Spread it on a baking sheet to cool, then portion into bags. It reheats from frozen in the microwave in about 2 minutes with a splash of water."
+},
+{
+"q": "What is a good freezer-friendly chicken recipe?",
+"a": "Honey garlic chicken: mix honey, soy sauce, garlic, and ginger. Marinate chicken thighs and bake at 400 degrees F for 35 minutes. Cool, slice, and freeze in portions with sauce. About 380 calories per serving."
+},
+{
+"q": "How do I make a freezer-friendly turkey chili?",
+"a": "Brown 1 lb ground turkey with onion and garlic. Add kidney beans, black beans, canned tomatoes, chili powder, cumin, smoked paprika, salt and pepper. Simmer 20 minutes. Freeze in individual portions. About 280 to 300 calories per serving."
+},
+{
+"q": "Can I freeze cooked lentils?",
+"a": "Yes, cooked lentils freeze well for up to 3 months. Freeze in 1-cup portions in zip-lock bags laid flat. Add directly to soups and stews from frozen or thaw overnight in the fridge."
+},
+{
+"q": "What are good freezer breakfast ideas?",
+"a": "Freezer-friendly breakfasts: breakfast burritos wrapped in foil, protein muffins, pancake stacks with parchment between each, and smoothie packs with pre-measured frozen ingredients."
+},
+{
+"q": "How do I freeze and reheat burritos?",
+"a": "Assemble burritos, wrap each tightly in foil, and freeze. Reheat in the microwave for 2 to 3 minutes flipping halfway, or remove foil and bake at 350 degrees F for 25 minutes from frozen."
+},
+{
+"q": "What vegetables freeze well for meal prep?",
+"a": "Vegetables that freeze well: broccoli, spinach, cauliflower, peas, corn, green beans, bell peppers, butternut squash, and sweet potato cubes. Blanch fresh vegetables briefly before freezing to preserve color and texture."
+},
+{
+"q": "Can I freeze a casserole for meal prep?",
+"a": "Yes, most casseroles freeze very well. Assemble in a freezer-safe dish, cover tightly with foil, and freeze. Thaw overnight and bake at 350 degrees F for 20 to 30 minutes until heated through."
+},
+{
+"q": "How do I freeze individual meal prep portions?",
+"a": "Cool food completely before freezing. Divide into meal-sized portions and label with the date, contents, and reheating instructions. Arrange in the freezer with newest items at the back."
+},
+{
+"q": "What is a good freezer-friendly soup?",
+"a": "Minestrone soup freezes very well. Saute onion, garlic, carrots, celery, and zucchini. Add diced tomatoes, white beans, vegetable broth, and Italian seasoning. Simmer 20 minutes. Skip pasta before freezing and add fresh when reheating. About 220 calories per bowl."
+},
+{
+"q": "How long do frozen burritos last?",
+"a": "Homemade frozen burritos last 1 to 3 months in the freezer. The taste and texture are best within the first month. Store in foil or a freezer bag with excess air removed."
+},
+{
+"q": "Can I freeze Greek yogurt for meal prep?",
+"a": "Greek yogurt can be frozen but changes texture when thawed. It works well in smoothies and baked goods from frozen but is not ideal for eating plain. For smoothie prep, freeze Greek yogurt in ice cube trays."
+},
+{
+"q": "How do I eat healthy at a restaurant when dieting?",
+"a": "Choose grilled or baked proteins, ask for sauces on the side, pick vegetables instead of fries, drink water. Most chain restaurants publish calorie counts on their menus or apps."
+},
+{
+"q": "How do I stay on track with my diet when eating out?",
+"a": "Check the menu online before going. Look for grilled proteins with vegetables. Ask for modifications. Allow yourself to enjoy the meal without guilt, then return to your plan the next day."
+},
+{
+"q": "What fast food can I eat while trying to lose weight?",
+"a": "Healthier fast food: Chipotle burrito bowl with chicken, no rice or cheese (~480 cal), Subway 6-inch turkey on whole wheat (~350 cal), Chick-fil-A grilled chicken sandwich (~390 cal), or a side salad with grilled chicken (~250 cal)."
+},
+{
+"q": "How do I order healthy at a Mexican restaurant?",
+"a": "Healthy Mexican orders: grilled chicken or steak fajitas with extra vegetables (skip the tortillas), a burrito bowl instead of a burrito, black beans instead of refried beans, and salsa instead of guacamole to save calories."
+},
+{
+"q": "How do I eat healthy at an Italian restaurant?",
+"a": "At Italian restaurants: choose tomato-based sauces over cream sauces, order grilled fish or chicken instead of pasta, start with a salad with dressing on the side, and avoid the bread basket."
+},
+{
+"q": "How do I order healthy at a Chinese restaurant?",
+"a": "Healthy Chinese options: steamed dishes over stir-fried, brown rice instead of white, steamed dumplings instead of fried, and ask for sauce on the side. Avoid sweet and sour dishes and fried rice."
+},
+{
+"q": "What is the healthiest thing to order at a fast food restaurant?",
+"a": "The healthiest fast food choices: grilled chicken sandwiches without sauce, side salads, protein-style burgers (lettuce wrap instead of bun), grilled wraps, or kids meals which have smaller portions."
+},
+{
+"q": "How do I deal with social events when dieting?",
+"a": "At social events: eat a high-protein snack before you go, scan the food options before loading your plate, choose proteins and vegetables first, limit alcohol, and drink water between drinks. One event will not derail your progress."
+},
+{
+"q": "How do I eat healthy when traveling?",
+"a": "When traveling: pack meal prep snacks (nuts, protein bars, cut vegetables), research restaurants near your hotel in advance, stay hydrated, and prioritize protein-focused options when eating out."
+},
+{
+"q": "How many calories are in a restaurant meal?",
+"a": "Restaurant meals are often 800 to 1,500 calories per entree. Appetizers, drinks, bread, and dessert can add another 500 to 1,000 calories. Check the restaurant's calorie information before ordering."
+},
+{
+"q": "How do I handle a diet cheat meal?",
+"a": "Enjoy a cheat meal without guilt, eat slowly and mindfully, avoid overeating to compensate before and after, and return to your regular plan at the next meal. The goal is sustainability, not perfection."
+},
+{
+"q": "How do I eat healthy at a work lunch?",
+"a": "For work lunches: bring your meal-prepped food, choose a salad with grilled protein when ordering, avoid combo meals, skip the office snack bowl, and eat slowly away from your desk."
+},
+{
+"q": "What should I drink when eating out on a diet?",
+"a": "Best drink choices: water with lemon, unsweetened iced tea, black coffee, or sparkling water. Avoid regular soda (150 cal per can), juice (120 cal per glass), and specialty coffee drinks (300 to 500 cal)."
+},
+{
+"q": "How do I resist overeating at a restaurant?",
+"a": "Strategies to avoid overeating: ask for a box at the start and immediately pack half, order appetizer portions as your main, share an entree, eat slowly, and avoid going to a restaurant when very hungry."
+},
+{
+"q": "Is it okay to eat out once a week on a diet?",
+"a": "Eating out once a week can fit into a weight loss plan if you make smart choices. Use the calorie information available, choose lean proteins with vegetables, and maintain your meal prep routine for the other six days."
+},
+{
+"q": "How long does meal prepped food last in the fridge?",
+"a": "Most meal prepped foods last 3 to 5 days refrigerated in airtight containers. Cooked proteins are best within 4 days. Freeze the last 2 days of portions for a full week of meals."
+},
+{
+"q": "What containers should I use for meal prepping?",
+"a": "Glass containers with snap-lock lids are ideal: microwave-safe, odor-resistant, and long-lasting. BPA-free plastic is a budget alternative. Use 2 to 3 cup containers for meals and mason jars for salads and overnight oats."
+},
+{
+"q": "How do I start meal prepping for the first time?",
+"a": "Start simple: pick 2 to 3 recipes, shop Saturday, cook Sunday. Batch cook your protein, carb, and vegetables separately. Mix and match, portion into containers, and you are set for the week."
+},
+{
+"q": "What day should I meal prep?",
+"a": "Most people prep on Sundays with a mid-week top-up on Wednesday or Thursday. Pick a day with 1 to 2 hours free. Meals ready Sunday evening removes daily decision fatigue all week."
+},
+{
+"q": "How do I reheat meal prepped food?",
+"a": "Microwave most meals for 2 to 3 minutes, adding a splash of water to prevent drying. Reheat vegetables in a dry skillet for crispness. Soups reheat best on the stovetop. Avoid reheating fish in a shared microwave."
+},
+{
+"q": "How do I meal prep without getting bored?",
+"a": "Prep component ingredients rather than identical meals: batch cook a protein, a grain, and a vegetable, then mix and match with different sauces and seasonings across the week."
+},
+{
+"q": "How do I keep salads fresh when meal prepping?",
+"a": "Store salad dressing in a separate small container. Keep wet ingredients like tomatoes and cucumbers separate and add before eating. Use a mason jar and layer with dressing at the bottom."
+},
+{
+"q": "How long does it take to meal prep for a week?",
+"a": "A full week of meal prep takes 1 to 2 hours for most people. Use overlapping cooking times: batch bake chicken while rice cooks on the stove and vegetables roast in the oven."
+},
+{
+"q": "What is the best way to reheat rice?",
+"a": "Add a tablespoon of water per cup of rice before microwaving. Cover with a damp paper towel and heat for 1 to 2 minutes, stirring halfway. Or reheat in a pan over medium heat with a little water or broth."
+},
+{
+"q": "How do I meal prep vegetables?",
+"a": "Wash and chop a large batch of vegetables on Sunday. Store raw in airtight containers for up to 5 days. Or roast a full sheet pan of vegetables and portion into containers for 4 to 5 days of ready-to-eat sides."
+},
+{
+"q": "Can I cook all my meals on Sunday?",
+"a": "Yes, a Sunday cook session is the most popular approach. Focus on batch cooking proteins, grains, and vegetables separately so you can mix and match. Soups and casseroles keep for the full 5 days."
+},
+{
+"q": "What tools do I need for meal prepping?",
+"a": "Essential meal prep tools: a set of airtight containers, a sharp knife, a large cutting board, sheet pans, a large pot, a skillet, a kitchen scale, and optionally a slow cooker or Instant Pot for hands-off cooking."
+},
+{
+"q": "How do I meal prep for a family?",
+"a": "Scale recipes to family size using your largest pans and pots. Cook the same base ingredients and offer different sauces for picky eaters. Get family members to help with washing and chopping to speed up the process."
+},
+{
+"q": "Can I meal prep smoothies?",
+"a": "Yes, prep smoothie packs by dividing frozen fruit, spinach, and other solid ingredients into zip-lock bags. Freeze. Each morning, empty one bag into the blender and add liquid. Takes under 2 minutes per smoothie."
+},
+{
+"q": "How do I meal prep if I have a small kitchen?",
+"a": "In a small kitchen, cook sequentially using one pan at a time. Use the oven for protein while boiling grains on the stove. Clean as you go to keep counter space free. Invest in stackable containers."
+},
+{
+"q": "How do I add variety to meal prep?",
+"a": "Add variety by using the same base protein with different marinades each week, rotating your grain, trying one new recipe per week, and keeping a variety of sauces on hand."
+},
+{
+"q": "Is it safe to meal prep chicken for 5 days?",
+"a": "Cooked chicken is safe for up to 4 days in the fridge. For a 5-day work week, eat chicken from Sunday's prep through Wednesday and freeze Thursday and Friday's portions during the Sunday session."
+},
+{
+"q": "How do I portion meals into containers?",
+"a": "Use a kitchen scale for accuracy, especially for proteins and grains. Divide the total dish equally across the number of containers. Weigh the first container, then use that as a guide for the rest."
+},
+{
+"q": "What is the best way to cook grains for meal prep?",
+"a": "Cook a large batch of your grain at the start of the week: use 2 cups dry for a single person's week. Season the water with a little salt and broth. Let cool completely before portioning and refrigerating."
+},
+{
+"q": "How do I meal prep if I do not like to cook?",
+"a": "Focus on no-cook or minimal-cook options: canned tuna salads, Greek yogurt parfaits, overnight oats, pre-washed salad greens with rotisserie chicken, and hard-boiled eggs. These require minimal cooking but keep you on track."
+},
+{
+"q": "How much weight can I lose in a week with meal prep?",
+"a": "With a 500-calorie daily deficit and consistent meal prep, expect 0.5 to 1 pound of loss per week sustainably. Initial faster loss is often water weight."
+},
+{
+"q": "Does meal prepping actually help with weight loss?",
+"a": "Yes. Research shows people who plan and prepare meals in advance consume fewer calories and make healthier choices. Meal prep removes the temptation of convenience food and gives full control over ingredients and portions."
+},
+{
+"q": "What macros should I aim for when trying to lose weight?",
+"a": "A common macro split: 40% protein, 30% carbs, 30% fat. For 1,500 calories this means 150g protein, 112g carbs, 50g fat. Adjust based on how you feel and respond."
+},
+{
+"q": "How important is protein for weight loss?",
+"a": "Protein is the most important macro for weight loss. It preserves muscle during a deficit, keeps you full longer than carbs or fat, and has a higher thermic effect. Aim for 0.7 to 1 gram per pound of body weight."
+},
+{
+"q": "Should I avoid carbs to lose weight?",
+"a": "No. Total calorie intake is what matters. Choose complex carbs like brown rice, quinoa, and sweet potato over refined carbs. Reducing refined carbs is helpful but complete elimination is unnecessary."
+},
+{
+"q": "How much water should I drink when trying to lose weight?",
+"a": "Aim for 8 to 10 cups of water per day, more if you exercise. Drinking water before meals can reduce how much you eat. Avoid sugary drinks which add calories with no satiety."
+},
+{
+"q": "Does exercise help with meal prep for weight loss?",
+"a": "Exercise and meal prep work best together. Exercise raises your TDEE so you can eat a bit more while still in a deficit. Meal prep ensures food supports your workouts with protein and complex carbs."
+},
+{
+"q": "What is the best diet for weight loss?",
+"a": "The best diet is one you can sustain long-term. Research supports whole foods, adequate protein, controlled portions, and a moderate calorie deficit regardless of the specific dietary pattern."
+},
+{
+"q": "How do I lose belly fat?",
+"a": "You cannot spot-reduce fat. Overall calorie deficit through diet and exercise leads to fat loss across the body including the belly. High protein intake and resistance training help preserve muscle while losing fat."
+},
+{
+"q": "How fast should I lose weight?",
+"a": "A safe and sustainable rate is 0.5 to 1 pound per week. Faster loss is usually water weight or muscle mass which is counterproductive. Slow steady loss through a moderate deficit is more sustainable."
+},
+{
+"q": "What is the best exercise for weight loss?",
+"a": "The most effective exercise is the one you will do consistently. A combination of strength training to preserve muscle and cardio to burn additional calories works best. Even daily walking significantly supports a calorie deficit."
+},
+{
+"q": "Should I do cardio or weights to lose weight?",
+"a": "Do both. Strength training preserves muscle mass during a calorie deficit which keeps your metabolism higher. Cardio burns additional calories. Prioritize strength training and add cardio on top of that."
+},
+{
+"q": "Why am I not losing weight even though I am eating healthy?",
+"a": "Common reasons: underestimating calorie intake, not tracking oils and sauces, portion sizes have crept up, not enough protein leading to muscle loss and slower metabolism, or you need to reassess your TDEE as your weight decreases."
+},
+{
+"q": "How do I break a weight loss plateau?",
+"a": "To break a plateau: recalculate your TDEE at your new weight, track your food more carefully for a week to identify hidden calories, add resistance training, and consider a brief refeed day to restore metabolic rate."
+},
+{
+"q": "Is it okay to have a cheat meal?",
+"a": "An occasional cheat meal is fine and can help with long-term adherence. Aim to enjoy it without guilt and return to your plan at the next meal. It becomes a problem when it turns into a full cheat day or weekend."
+},
+{
+"q": "What is intermittent fasting?",
+"a": "Intermittent fasting is an eating pattern that cycles between periods of eating and fasting. The most popular version is 16:8, fasting for 16 hours and eating within an 8-hour window. It can aid weight loss by naturally reducing calorie intake."
+},
+{
+"q": "Can I lose weight without exercising?",
+"a": "Yes, weight loss is primarily driven by calorie intake and can be achieved through diet alone. However, exercise helps preserve muscle mass, improves health beyond weight, burns additional calories, and makes maintaining weight loss easier long-term."
+},
+{
+"q": "How do I stay motivated to lose weight?",
+"a": "Set small measurable goals, track non-scale victories like energy and sleep quality, take progress photos every two weeks, find accountability through a friend or app, and focus on building habits rather than achieving a deadline."
+},
+{
+"q": "What is the best app for weight loss?",
+"a": "Popular weight loss apps: MyFitnessPal (calorie and macro tracking), Cronometer (detailed nutrition tracking), Lose It (simple calorie tracking), Noom (behavioral coaching), and Stronger (strength training tracking)."
+},
+{
+"q": "Does sleep affect weight loss?",
+"a": "Yes, poor sleep significantly impairs weight loss. It raises ghrelin (the hunger hormone) and lowers leptin (the fullness hormone), leading to increased appetite of up to 300 to 500 extra calories per day. Aim for 7 to 9 hours per night."
+},
+{
+"q": "What is a realistic weight loss goal per month?",
+"a": "A realistic and sustainable goal is 4 to 8 pounds per month (1 to 2 pounds per week). Setting overly aggressive goals leads to muscle loss, nutrient deficiencies, and rebound weight gain."
+},
+{
+"q": "How do I maintain weight after losing it?",
+"a": "To maintain weight loss: continue tracking food periodically, maintain regular exercise including strength training, keep meal prepping for portion control, weigh yourself weekly, and sustain the eating habits that helped you lose the weight."
+},
+{
+"q": "What causes weight loss to slow down?",
+"a": "Weight loss slows because your calorie needs decrease as you get lighter, your body adapts metabolically to a sustained deficit, you may have lost muscle mass which slows metabolism, or calorie intake has gradually crept up."
+},
+{
+"q": "How do I lose weight while maintaining muscle?",
+"a": "To lose fat while preserving muscle: eat a moderate calorie deficit (no more than 500 below TDEE), consume at least 0.8 to 1 gram of protein per pound of body weight, do resistance training 3 to 4 times per week."
+},
+{
+"q": "Is meal prepping necessary for weight loss?",
+"a": "Meal prepping is not strictly necessary but it dramatically improves your chances of success. Having healthy portioned food ready removes the daily decisions that often lead to poor food choices."
+},
+{
+"q": "What are signs that my diet is working?",
+"a": "Positive signs: clothes fit looser even before the scale moves, energy levels are stable, you are sleeping better, digestion has improved, you are consistently hitting your protein goals, and you feel in control of your food choices."
+},
+{
+"q": "How do I not feel deprived while dieting?",
+"a": "Avoid deprivation by eating filling high-volume foods, allowing occasional treats in moderation, focusing on what you can eat rather than what you cannot, finding lower-calorie versions of your favorite foods, and ensuring enough protein and fiber."
+},
+{
+"q": "What is the difference between losing weight and losing fat?",
+"a": "Weight loss is the reduction in total body mass including muscle, water, and fat. Fat loss specifically targets body fat while preserving muscle. Fat loss is the goal \u2014 achieved through adequate protein, resistance training, and a moderate calorie deficit."
+},
+{
+"q": "How do I deal with hunger while dieting?",
+"a": "Manage hunger by eating high-volume low-calorie foods like vegetables and broth-based soups, prioritizing protein which is the most satiating macronutrient, drinking water before meals, and spacing meals evenly throughout the day."
+},
+{
+"q": "What vitamins should I take when losing weight?",
+"a": "Common nutritional gaps during calorie restriction: Vitamin D, B12 (especially if limiting animal products), iron (especially for women), magnesium, and omega-3 fatty acids. A general multivitamin can help cover basics."
+},
+{
+"q": "How do I lose weight if I have a slow metabolism?",
+"a": "You cannot significantly change your metabolic rate, but you can work with it. Eat at a moderate deficit based on your actual TDEE, prioritize protein to protect muscle (which is the most metabolically active tissue), strength train, get enough sleep, and be patient with a slower rate of loss."
+},
+{
+"q": "What is a good calorie goal for someone who is sedentary?",
+"a": "A sedentary person (desk job, little exercise) typically has a TDEE of 1,600 to 2,000 calories depending on size. For weight loss, subtract 300 to 500 calories from that number. Aim for at least 1,200 calories for women and 1,500 for men."
+},
+{
+"q": "What foods have zero calories?",
+"a": "Truly zero-calorie foods are rare but some come very close: water, black coffee, plain tea, and some vegetables like celery are under 10 calories per serving. Focus on low-calorie, high-volume foods like cucumbers, spinach, lettuce, and broth rather than searching for zero-calorie foods."
+},
+{
+"q": "How do I read a nutrition label for weight loss?",
+"a": "On a nutrition label, start with serving size (all numbers are per serving), then check calories, then protein (aim high), then fiber (aim high), then added sugars (aim low), then sodium. Ignore daily value percentages and focus on the actual gram amounts for calorie tracking."
+},
+{
+"q": "What are good low calorie sauces and condiments?",
+"a": "Low calorie condiment options: salsa (~20 cal per quarter cup), hot sauce (~5 cal per serving), soy sauce (~10 cal per tablespoon), mustard (~10 cal per serving), lemon juice (~4 cal per tablespoon), and plain Greek yogurt as a sauce base (~15 cal per tablespoon)."
+},
+{
+"q": "How do I stop emotional eating?",
+"a": "To reduce emotional eating: identify your triggers (boredom, stress, loneliness), keep a food and mood diary, find non-food coping strategies (exercise, journaling, calling a friend), avoid keeping trigger foods at home, and pause before eating to ask if you are physically or emotionally hungry."
+},
+{
+"q": "What is the thermic effect of food?",
+"a": "The thermic effect of food (TEF) is the energy your body uses to digest, absorb, and metabolize what you eat. Protein has the highest TEF at 20 to 30% of its calories, meaning your body burns more calories processing protein than carbs or fat."
+},
+{
+"q": "Can I eat whatever I want and still lose weight?",
+"a": "In theory, you can lose weight eating any foods as long as you maintain a calorie deficit. However, eating mostly whole foods makes the deficit easier to maintain because they are more filling and nutritious. High-calorie-density foods make it easy to exceed your budget."
+},
+{
+"q": "How do I count calories at a restaurant without a menu?",
+"a": "Estimate by thinking in components: a fist-sized portion of protein is about 150 to 200 calories, a cupped hand of starch is about 150 to 200 calories, and a tablespoon of oil or sauce adds 100 to 120 calories. Err on the higher side when estimating."
+},
+{
+"q": "How do I lose the last 10 pounds?",
+"a": "The last 10 pounds are the hardest because your TDEE decreases as you get lighter. Recalculate your TDEE at your current weight, tighten up your calorie tracking, ensure you are eating enough protein, add resistance training if you have not been doing it, and be patient."
+},
+{
+"q": "What are the best marinades for weight loss meal prep?",
+"a": "Light marinades that add flavor without many calories: lemon juice, garlic, and herbs (~20 cal per serving), soy sauce, ginger, and sesame oil (~40 cal per serving), Greek yogurt with spices as a tenderizing marinade (~30 cal per serving), and salsa as a quick marinade (~15 cal per serving)."
+},
+{
+"q": "How do I make chicken breast not dry?",
+"a": "To prevent dry chicken breast: brine in salted water for 30 minutes before cooking, pound to even thickness, do not overcook (use a thermometer and pull at 165 degrees F), let it rest for 5 minutes before slicing, and store with a little broth in the container."
+},
+{
+"q": "What is the best way to season ground beef for weight loss meals?",
+"a": "Season 93% lean ground beef with: garlic powder, onion powder, smoked paprika, cumin, salt and pepper for a Mexican base; Italian seasoning, garlic, fennel for pasta and meatballs; or ginger, garlic, and soy sauce for an Asian-style bowl."
+},
+{
+"q": "How do I make a healthy chicken curry?",
+"a": "Healthy chicken curry: saute onion, garlic, and ginger in a little olive oil. Add diced chicken breast, curry powder, cumin, turmeric, canned tomatoes, and half a cup of light coconut milk. Simmer 20 minutes. Serve over half a cup of brown rice. About 400 calories with 35 grams of protein."
+},
+{
+"q": "What is a good air fryer chicken recipe for meal prep?",
+"a": "Air fryer chicken thighs: season bone-in thighs with garlic powder, paprika, salt, and pepper. Cook in the air fryer at 380 degrees F for 25 minutes. The skin crisps without added oil. About 220 calories per thigh. Make a large batch and reheat throughout the week."
+},
+{
+"q": "What is a good recipe for vegetarian meal prep beginners?",
+"a": "Start with a simple lentil soup: saute onion, garlic, carrot, and celery. Add dried lentils, canned tomatoes, vegetable broth, cumin, turmeric, and a pinch of cayenne. Simmer 25 to 30 minutes. Makes 5 to 6 servings at about 250 calories each. Lasts 5 days in the fridge."
+},
+{
+"q": "How do I make tofu crispy?",
+"a": "Press tofu for 15 minutes to remove water, cube it, then toss with cornstarch, soy sauce, garlic powder, and a little sesame oil. Bake at 400 degrees F for 25 to 30 minutes, flipping halfway, or air fry at 380 degrees F for 15 minutes. The cornstarch is the key to crispiness."
+},
+{
+"q": "What is a good vegetarian protein bowl?",
+"a": "Vegetarian protein bowl: half a cup of quinoa (4g protein), half a cup of roasted chickpeas (7g protein), a quarter block of baked tofu (10g protein), roasted broccoli and bell peppers, and a tahini-lemon dressing. Total about 420 calories and 22 grams of plant protein."
+},
+{
+"q": "What are the best canned beans for meal prep?",
+"a": "Best canned beans for meal prep: black beans (7.5g protein per half cup), chickpeas (7.5g protein), kidney beans (7.5g protein), and cannellini beans (6g protein). All are affordable, require no cooking, and last 5 days in the fridge once drained and rinsed."
+},
+{
+"q": "How do I make a healthy hummus at home?",
+"a": "Blend 1 can of drained chickpeas with 2 tablespoons of tahini, a clove of garlic, lemon juice, a little olive oil, salt, and 2 to 3 tablespoons of water until very smooth. About 50 calories per 2 tablespoons. Much cheaper than store-bought and has no added preservatives."
+},
+{
+"q": "What is a good keto breakfast for meal prep?",
+"a": "Keto-friendly meal prep breakfasts: baked egg cups in a muffin tin with cheese and vegetables (2g carbs, ~150 cal for 2), full-fat Greek yogurt with a handful of berries and nuts (~200 cal, 5g carbs), an avocado with two scrambled eggs (~350 cal, 6g carbs)."
+},
+{
+"q": "How do I make banana oat pancakes for meal prep?",
+"a": "Blend 2 ripe bananas, 2 eggs, and 1 cup of rolled oats until smooth. Cook on a non-stick pan over medium heat, 2 to 3 minutes per side. Makes about 8 small pancakes at roughly 50 calories each. Refrigerate and reheat in the microwave for 30 seconds."
+},
+{
+"q": "What is a good protein oatmeal recipe?",
+"a": "Protein oatmeal: cook half a cup of rolled oats, then stir in a scoop of vanilla protein powder off the heat. Top with a tablespoon of almond butter and sliced banana. About 380 calories with 30 grams of protein. A very filling breakfast that supports muscle."
+},
+{
+"q": "Can I eat the same breakfast every day for weight loss?",
+"a": "Yes, eating the same breakfast daily is a common and effective weight loss strategy. It removes the daily decision, reduces the risk of making poor choices, and makes calorie tracking simpler. Just make sure it provides adequate protein and fiber."
+},
+{
+"q": "What is a good dairy free breakfast for weight loss?",
+"a": "Dairy-free breakfast options: smoothie with almond milk and plant protein powder (~300 cal), overnight oats with almond milk and chia seeds (~280 cal), avocado toast on whole grain bread with a fried egg (~280 cal), and banana oat pancakes (~200 cal for 4 small cakes)."
+},
+{
+"q": "What is a good healthy dinner for two?",
+"a": "A simple and healthy dinner for two: sheet pan baked salmon with asparagus and cherry tomatoes. Season 2 salmon fillets with olive oil, lemon, garlic, dill, salt, and pepper. Add asparagus and tomatoes to the pan. Bake at 400 degrees F for 12 to 15 minutes. About 350 calories per serving."
+},
+{
+"q": "What are good high protein lunch ideas?",
+"a": "High protein lunches: grilled chicken salad with Greek dressing (35g protein, ~300 cal), tuna salad lettuce wraps (30g protein, ~250 cal), cottage cheese with sliced turkey and cucumber (28g protein, ~280 cal), and a black bean burrito bowl with extra chicken (38g protein, ~420 cal)."
+},
+{
+"q": "How do I pack a healthy lunch for work?",
+"a": "Pack a work lunch with: a lean protein (grilled chicken, tuna, or hard-boiled eggs), a complex carb (brown rice, quinoa, or whole grain bread), plenty of vegetables, and a healthy fat (a small amount of avocado, nuts, or olive oil dressing). Keep dressings and sauces separate until eating."
+},
+{
+"q": "What are some good dinner ideas for a week?",
+"a": "A week of healthy dinners: Monday lemon garlic chicken with roasted vegetables, Tuesday turkey taco bowls, Wednesday baked salmon with sweet potato, Thursday vegetable and chickpea curry, Friday ground beef stuffed peppers, Saturday shrimp stir-fry, Sunday slow cooker chicken soup."
+},
+{
+"q": "How do I make a healthy spaghetti squash recipe?",
+"a": "Roast a halved spaghetti squash at 400 degrees F for 35 to 40 minutes. Scrape strands with a fork. Top with homemade turkey Bolognese (ground turkey with garlic, onion, canned tomatoes, and Italian seasoning). About 350 calories per serving with 30 grams of protein."
+},
+{
+"q": "What are good snacks that do not need refrigeration?",
+"a": "Non-perishable snacks: a small bag of mixed nuts (~170 cal), a protein bar (~200 cal), an apple or banana (~90 to 100 cal), individual peanut butter packets with a rice cake (~200 cal), and roasted chickpeas (~120 cal per quarter cup)."
+},
+{
+"q": "What are good snacks to help you sleep?",
+"a": "Snacks that may support sleep: a small bowl of cottage cheese with cinnamon (contains tryptophan, ~120 cal), a banana with a tablespoon of almond butter (magnesium and tryptophan, ~200 cal), a cup of warm chamomile tea with a few almonds (~60 cal)."
+},
+{
+"q": "Are rice cakes good for weight loss?",
+"a": "Plain rice cakes are very low calorie at about 35 calories each, making them a good base for a snack. Top with almond butter and banana slices (~130 cal total), tuna and mustard (~90 cal), or avocado and Everything Bagel seasoning (~100 cal) for a filling snack."
+},
+{
+"q": "How do I portion out a week of meals in one session?",
+"a": "Cook all proteins, grains, and vegetables in large batches. Weigh or measure the total yield of each item, then divide evenly by the number of meals you need. For example, if you made 2,000 grams of chicken for 5 days of lunch and dinner, each container gets 200 grams."
+},
+{
+"q": "What is a good meal prep container size?",
+"a": "For main meals, 2 to 3 cup containers work well for most people. Smaller 1-cup containers are perfect for snacks and sides. Wide, shallow containers are easier to fill and see the contents of. Look for stackable sets to save fridge space."
+},
+{
+"q": "Is coffee bad for weight loss?",
+"a": "Plain black coffee contains only about 5 calories and may slightly boost metabolism. It is not harmful to weight loss. The problem is specialty coffee drinks with cream, sugar, and syrups that can add 300 to 500 calories. Stick to black coffee or coffee with a splash of unsweetened almond milk."
+},
+{
+"q": "Does alcohol affect weight loss?",
+"a": "Yes, alcohol significantly affects weight loss. It adds empty calories (about 100 to 200 per drink), lowers inhibitions leading to worse food choices, disrupts sleep quality, and the body prioritizes metabolizing alcohol over burning fat. Minimizing alcohol is one of the most effective weight loss strategies."
+},
+{
+"q": "What is the difference between fat loss and weight loss on the scale?",
+"a": "The scale measures total body mass including muscle, fat, water, and food in your digestive system. You can lose fat without the scale moving (if you build muscle simultaneously) and the scale can drop without fat loss (if you lose water weight). Track measurements and how clothes fit in addition to scale weight."
+},
+{
+"q": "How do I deal with cravings on a diet?",
+"a": "To manage cravings: eat protein at every meal which reduces cravings significantly, drink water first and wait 10 minutes, keep healthy versions of your favorite foods on hand, allow small planned treats so nothing feels forbidden, and identify whether the craving is hunger or habit."
+},
+{
+"q": "What is the best time of day to eat for weight loss?",
+"a": "The research on meal timing shows total calorie intake matters more than timing for weight loss. However, eating more calories earlier in the day and less at night may align better with natural hunger patterns. Avoid eating very late at night. Consistency in when you eat helps regulate hunger hormones."
+},
+{
+"q": "How do I lose weight if I hate vegetables?",
+"a": "If you dislike vegetables, start with the mildest options: roasted sweet potato, corn, peas, and carrots are naturally sweet. Roasting vegetables with olive oil and seasoning makes them much tastier than steaming. Add vegetables to dishes where they are less noticeable, like soups, stews, and stir-fries."
+},
+{
+"q": "What is a good weight loss plan for beginners?",
+"a": "Start with three steps: first, calculate your TDEE and set a calorie goal 300 to 500 below it. Second, prep two to three meals on Sunday using simple recipes with lean protein, a vegetable, and a small amount of complex carb. Third, track your food for the first two weeks to understand your eating patterns."
+},
+{
+"q": "How do I stop eating when bored?",
+"a": "To stop boredom eating: keep water on your desk and sip it throughout the day, have a list of non-food activities to do when bored (a short walk, reading, calling someone), do not keep trigger foods in the house, and eat regular protein-rich meals that keep hunger genuinely at bay."
+},
+{
+"q": "What are the most common mistakes people make when trying to lose weight?",
+"a": "Common weight loss mistakes: not eating enough protein (leads to muscle loss and hunger), underestimating calorie intake (especially from oils and sauces), being too aggressive with the deficit (leads to metabolic adaptation), not tracking consistently, and expecting too-fast results and giving up."
+},
+{
+"q": "How do I know if my calorie goal is right?",
+"a": "If you are losing 0.5 to 1 pound per week on average, your calorie goal is appropriate. If you are losing faster, you may be eating too little. If you are not losing weight after 3 to 4 weeks of tracking consistently, reduce your intake by 100 to 200 calories and reassess."
+},
+{
+"q": "How do I meal prep for muscle gain?",
+"a": "For muscle gain meal prep, increase your calorie target by 200 to 300 above maintenance. Prioritize protein at every meal, aiming for 1 gram per pound of body weight. Include complex carbs like rice and oats for energy. Build meals around chicken, eggs, Greek yogurt, and legumes with rice or sweet potato."
+},
+{
+"q": "What is a good post-workout meal?",
+"a": "A good post-workout meal combines protein and carbohydrates: grilled chicken with sweet potato and broccoli (~400 cal, 35g protein), Greek yogurt with banana and granola (~350 cal, 25g protein), or a protein shake with oats and almond butter blended in (~400 cal, 35g protein). Eat within an hour of exercising."
+},
+{
+"q": "How do I eat enough protein on a budget?",
+"a": "Affordable high-protein foods: eggs (~$0.20 each, 6g protein), canned tuna (~$1 per can, 25g protein), dried lentils (~$0.25 per serving, 9g protein), chicken thighs (~$1.50 per serving, 25g protein), and cottage cheese (~$0.75 per serving, 14g protein). These are all significantly cheaper than premium protein sources."
+},
+{
+"q": "What is a good meal plan for a week?",
+"a": "A simple weekly meal plan: Breakfast \u2014 overnight oats or egg muffins daily. Lunch \u2014 grilled chicken salad or turkey wrap. Dinner \u2014 rotate between baked fish, ground turkey stir-fry, lentil soup, and stuffed peppers. Snacks \u2014 Greek yogurt, hard-boiled eggs, or fruit with nut butter. Prep Sunday, re-stock Wednesday."
+},
+{
+"q": "How do I make sure I am getting enough nutrients while cutting calories?",
+"a": "To get adequate nutrients on a calorie deficit: eat a wide variety of whole foods rather than the same few meals, prioritize micronutrient-dense foods like leafy greens and colorful vegetables, include fatty fish for omega-3s, consider a basic multivitamin, and do not drop calories so low that eating sufficient food becomes impossible."
+},
+{
+"q": "What is the best protein powder for weight loss?",
+"a": "For weight loss, whey protein isolate is excellent: it has the highest protein per calorie ratio (about 110 cal per scoop with 25g protein) and digests quickly. Plant-based options include pea protein and brown rice protein blends, which are comparable. Look for powders with under 5 grams of added sugar."
+},
+{
+"q": "How do I make a protein shake taste better?",
+"a": "Improve your protein shake by blending with frozen banana for creaminess, adding a tablespoon of peanut butter or almond butter, using unsweetened almond milk instead of water, adding a handful of frozen berries, a teaspoon of vanilla extract, or a pinch of cinnamon. Blending always tastes better than stirring."
+},
+{
+"q": "What is a good smoothie bowl recipe?",
+"a": "Smoothie bowl: blend 1 frozen banana, half a cup of frozen berries, half a cup of plain Greek yogurt, and a splash of almond milk until thick. Pour into a bowl and top with fresh fruit, a tablespoon of granola, and a drizzle of honey. About 350 calories with 18 grams of protein."
+},
+{
+"q": "How do I add flavor to vegetables without adding calories?",
+"a": "Add big flavor to vegetables without many calories: roast at high heat with garlic and herbs (transforms texture and sweetness), use lemon juice and zest, add chili flakes and garlic, try a small amount of soy sauce or balsamic vinegar, or season generously with smoked paprika and cumin before roasting."
+},
+{
+"q": "What is a good recipe for healthy fried rice?",
+"a": "Cauliflower fried rice: stir-fry riced cauliflower in a hot pan with garlic, ginger, a dash of sesame oil, soy sauce, frozen peas, carrots, and scrambled egg. Add your choice of diced chicken or shrimp. About 280 calories per serving versus over 500 for restaurant fried rice."
+},
+{
+"q": "How do I make a weight loss meal plan?",
+"a": "To create a weight loss meal plan: first set your calorie goal (TDEE minus 300 to 500). Then plan 3 meals and 1 to 2 snacks that hit that number with at least 30% of calories from protein. Pick 3 dinner recipes, 2 lunch options, and 2 breakfast options to rotate through. Shop once, prep Sunday."
+},
+{
+"q": "What are good high protein low calorie foods?",
+"a": "Best high protein low calorie foods: chicken breast (30g protein, 160 cal per 4 oz), non-fat Greek yogurt (17g protein, 80 cal), cottage cheese (14g protein, 110 cal per half cup), egg whites (4g protein, 17 cal each), shrimp (23g protein, 120 cal per 4 oz), canned tuna (25g protein, 130 cal per can), and lentils (9g protein, 115 cal per half cup)."
+},
+{
+"q": "Is it okay to skip breakfast for weight loss?",
+"a": "Skipping breakfast is fine if it is a deliberate choice (like intermittent fasting) and you do not compensate by overeating later. However, many people find that eating a high-protein breakfast reduces total daily calorie intake by reducing hunger and cravings throughout the day."
+},
+{
+"q": "What are good high volume low calorie foods?",
+"a": "High volume foods that fill you up for few calories: leafy greens (~10 to 20 cal per cup), cucumber (~16 cal per cup), broth-based soups (~50 to 100 cal per cup), zucchini (~20 cal per cup), cauliflower rice (~25 cal per cup), and berries (~50 to 70 cal per cup). Build meals around these for maximum fullness."
+},
+{
+"q": "What is a good meal prep for someone who works night shifts?",
+"a": "Night shift meal prep: treat your eating window the same way regardless of the clock. Pack 3 to 4 meals to take to work: a protein and vegetable main, a grain side, two high-protein snacks, and plenty of water. Avoid high-carb meals during the night as they can cause energy crashes."
+},
+{
+"q": "How do I lose weight with a desk job?",
+"a": "For weight loss with a desk job: take short walks every hour, stand when possible, drink water consistently to reduce hunger, pack all meals and snacks to avoid vending machines and takeout, and add exercise before or after work. The biggest lever is controlling what you eat since activity is limited at a desk."
+},
+{
+"q": "What is a healthy slow cooker recipe for meal prep?",
+"a": "Slow cooker salsa chicken: place 4 chicken breasts in the slow cooker with a jar of salsa and a can of drained black beans. Cook on low 6 to 8 hours. Shred chicken with forks and mix with the beans and salsa. Serve over cauliflower rice. About 350 calories per serving with 40 grams of protein. Freezes beautifully."
+},
+{
+"q": "How do I meal prep if I have food allergies?",
+"a": "If you have food allergies, build your meal prep around safe staples that fit your restrictions. For gluten intolerance: use rice, quinoa, and potatoes instead of pasta and bread. For dairy: swap Greek yogurt for coconut or almond-based alternatives. For eggs: use legumes and tofu as protein sources. Label everything carefully."
+},
+{
+"q": "What is a good Indian-inspired meal prep recipe?",
+"a": "Chicken tikka masala lite: marinate chicken in low-fat yogurt, garlic, ginger, and tikka spices. Bake at 400 degrees F for 20 minutes. Make a sauce with canned tomatoes, onion, garlic, ginger, garam masala, cumin, and a little light coconut milk. Simmer together 10 minutes. About 380 calories per serving."
+},
+{
+"q": "What is a good Mediterranean diet meal prep?",
+"a": "Mediterranean meal prep: bake 4 chicken or fish fillets seasoned with olive oil, lemon, garlic, and oregano. Prepare a large batch of tabbouleh (bulgur, parsley, tomatoes, cucumber, lemon, olive oil). Roast a tray of vegetables. Keep olives and hummus for snacking. About 380 to 420 calories per meal."
+},
+{
+"q": "How do I get started with clean eating?",
+"a": "Clean eating basics: focus on whole, minimally processed foods. Choose lean proteins, lots of vegetables and fruits, complex grains, and healthy fats. Cook most of your food at home. Read ingredient labels and avoid products with long lists of additives. Meal prep is the most practical tool for sustaining clean eating."
+},
+{
+"q": "What is a good anti-inflammatory meal prep?",
+"a": "Anti-inflammatory meal prep focuses on: fatty fish like salmon (omega-3s), colorful vegetables (antioxidants), olive oil (polyphenols), berries (antioxidants), turmeric and ginger in cooking, walnuts, and green tea. Avoid refined carbs, fried foods, and processed meats."
+},
+{
+"q": "How do I make healthy soup for weight loss?",
+"a": "A great foundation for weight loss soup: saute aromatics (onion, garlic, celery), add a lean protein and plenty of vegetables, pour in low-sodium broth to cover, season with herbs and spices, and simmer 20 to 30 minutes. Broth-based soups are far lower in calories than cream soups and are very filling per calorie."
+},
+{
+"q": "What is a good air fryer recipe for meal prep?",
+"a": "Air fryer salmon bites: cut salmon into cubes, toss with soy sauce, garlic, a little honey, sesame oil, and black pepper. Air fry at 400 degrees F for 7 to 8 minutes. Serve over cauliflower rice with steamed edamame. About 340 calories per serving with 30 grams of protein. Prep 4 portions at once."
+},
+{
+"q": "How do I make healthy dips for snacking?",
+"a": "Healthy dip ideas for snacking: homemade guacamole with vegetables (~100 cal per serving), tzatziki made with Greek yogurt instead of sour cream (~50 cal per quarter cup), white bean dip with garlic and lemon (~90 cal per quarter cup), and a simple salsa (~20 cal per quarter cup)."
+},
+{
+"q": "What is a good healthy meal for under $3?",
+"a": "A healthy meal for under $3 per serving: lentil soup (dried lentils + canned tomatoes + vegetables + broth, about $1.50 per serving), egg and vegetable stir-fry (3 eggs + frozen vegetables, about $1.20 per serving), or canned tuna salad over a bed of spinach (about $2 per serving). These are some of the most nutritious and affordable meals you can make."
+},
+{
+"q": "How do I make mealtime less boring when dieting?",
+"a": "Make healthy eating less boring: try a new cuisine each week (Mexican, Mediterranean, Asian), invest in quality spices and sauces that add big flavor for few calories, experiment with different grains and vegetables, follow healthy food accounts for inspiration, and cook with a friend or family member to make it social."
+},
+{
+"q": "What is a good healthy pizza recipe?",
+"a": "Healthy pizza: use a whole wheat pita or flatbread as the base (~100 cal). Spread with two tablespoons of tomato sauce, top with a quarter cup of low-fat mozzarella, lots of vegetables (spinach, mushrooms, bell peppers), and 2 ounces of grilled chicken. Bake at 400 degrees F for 8 to 10 minutes. About 350 calories."
+},
+{
+"q": "How do I make a healthy meal with leftovers?",
+"a": "Leftover meals are a key part of efficient meal prep. Transform leftovers: yesterday's grilled chicken becomes today's salad topping or taco filling. Leftover roasted vegetables go into an egg scramble or grain bowl. Cooked grains mix into a soup. Always think about how each component can serve double duty."
+},
+{
+"q": "What are good low calorie breakfast foods to buy?",
+"a": "Budget-friendly low calorie breakfast staples: rolled oats (~$0.10 per serving, 150 cal), eggs (~$0.20 each, 80 cal), bananas (~$0.20 each, 100 cal), frozen berries (~$0.50 per serving, 50 cal), plain Greek yogurt (~$0.75 per serving, 80 cal), and canned pumpkin (~$0.30 per half cup, 40 cal, great in oatmeal)."
+},
+{
+"q": "How do I make a healthy chicken noodle soup?",
+"a": "Healthy chicken noodle soup: simmer diced chicken breast with carrots, celery, onion, and garlic in 6 cups of low-sodium chicken broth for 20 minutes. Add zucchini noodles or a small amount of whole wheat egg noodles for the last 3 minutes. Season with thyme, salt, and pepper. About 220 to 280 calories per bowl."
+},
+{
+"q": "What is a good recipe for cauliflower soup?",
+"a": "Roasted cauliflower soup: roast a whole head of cauliflower with garlic and olive oil at 400 degrees F for 25 minutes. Blend with low-sodium chicken or vegetable broth, a pinch of nutmeg, salt and pepper, until smooth. Top with a dollop of Greek yogurt and chives. About 130 calories per bowl."
+},
+{
+"q": "How do I make healthy egg salad?",
+"a": "Healthy egg salad: hard-boil 4 eggs, peel and chop. Mix with 2 tablespoons of plain Greek yogurt, 1 teaspoon of Dijon mustard, chopped celery, diced red onion, lemon juice, salt and pepper. Serve in lettuce cups or over mixed greens. About 180 calories per serving with 14 grams of protein."
+},
+{
+"q": "What is a good healthy coleslaw recipe?",
+"a": "Light coleslaw: shred half a head of green cabbage and one carrot. Make a dressing with plain Greek yogurt, a little apple cider vinegar, Dijon mustard, a teaspoon of honey, celery seed, salt and pepper. Toss and refrigerate for at least 30 minutes. About 70 calories per cup versus over 200 for traditional mayo-based coleslaw."
+},
+{
+"q": "How do I make a healthy grain salad for meal prep?",
+"a": "Farro and roasted vegetable salad: cook 1 cup of farro. Roast cherry tomatoes, zucchini, and red onion with olive oil and herbs. Toss together with baby arugula, a squeeze of lemon, and a little parmesan. Divide into 4 containers. About 320 calories per serving with 10 grams of protein. Lasts 4 days refrigerated."
+},
+{
+"q": "What is a good healthy wrap recipe for meal prep?",
+"a": "Turkey and avocado wrap: lay a whole wheat tortilla flat. Spread with 1 tablespoon of hummus, add 3 slices of turkey breast, a quarter of a sliced avocado, shredded lettuce, sliced tomato, and a drizzle of hot sauce. Roll tightly and slice in half. About 380 calories with 25 grams of protein."
+},
+{
+"q": "How do I make overnight oats without yogurt?",
+"a": "Overnight oats without yogurt: mix half a cup of rolled oats with half a cup of unsweetened almond milk, 1 tablespoon of chia seeds, a teaspoon of maple syrup or honey, and a pinch of cinnamon. Refrigerate overnight. Top with fresh berries and a tablespoon of almond butter in the morning. About 280 calories."
+},
+{
+"q": "What is a good healthy dessert for weight loss?",
+"a": "Healthy dessert options: a cup of berries with a tablespoon of whipped cream (~80 cal), frozen banana nice cream (~100 cal per serving), dark chocolate-dipped strawberries (~100 cal for 5 berries), a baked apple with cinnamon and a teaspoon of honey (~100 cal), or plain Greek yogurt with a drizzle of honey and toasted nuts (~150 cal)."
+},
+{
+"q": "How do I make a healthy power bowl?",
+"a": "Power bowl formula: start with half a cup of a whole grain (rice, quinoa, or farro). Add 4 ounces of a lean protein. Load up with 1 to 2 cups of roasted or raw vegetables. Add half a serving of healthy fat (quarter avocado or a tablespoon of olive oil dressing). Top with a flavorful sauce. Total 350 to 450 calories."
+},
+{
+"q": "What is a good fiber-rich breakfast?",
+"a": "High fiber breakfasts: oatmeal with chia seeds and berries (~9g fiber, 300 cal), an avocado egg toast on whole grain bread (~7g fiber, 280 cal), overnight oats with flaxseed and apple (~8g fiber, 290 cal), and a smoothie bowl with banana, spinach, and hemp seeds (~6g fiber, 350 cal). Fiber slows digestion and keeps you full longer."
+},
+{
+"q": "How do I make a weight loss salad that is actually filling?",
+"a": "A filling weight loss salad needs three things: a large volume of leafy greens, a full serving of lean protein (grilled chicken, tuna, shrimp, or hard-boiled eggs), and a small amount of healthy fat (a quarter avocado or a tablespoon of olive oil in the dressing). The protein and fat are what make the salad satisfying."
+},
+{
+"q": "What is the best meal prep schedule?",
+"a": "An efficient weekly meal prep schedule: Saturday, plan your meals and make your shopping list. Saturday or Sunday, grocery shop. Sunday, spend 1.5 to 2 hours cooking: start your proteins in the oven, cook grains on the stovetop, and roast vegetables simultaneously on a second rack. Portion and store everything in containers when done."
+},
+{
+"q": "How do I make a healthy teriyaki chicken?",
+"a": "Healthy teriyaki chicken: make a lighter teriyaki sauce with low-sodium soy sauce, a tablespoon of honey, minced garlic, grated ginger, and a little cornstarch to thicken. Brush onto chicken breasts or thighs and bake at 400 degrees F for 22 to 25 minutes. Serve over brown rice and steamed broccoli. About 400 calories per serving."
+},
+{
+"q": "What are good meal prep ideas for summer?",
+"a": "Summer meal prep ideas: cold noodle salads with sesame dressing (~350 cal), chilled lemon herb shrimp over greens (~280 cal), mason jar Greek salads with chickpeas (~320 cal), overnight oats with fresh peaches (~280 cal), and cold grilled chicken with cucumber and tomato salad (~300 cal). Many summer prep meals are great served cold."
+},
+{
+"q": "What is a good healthy enchilada recipe?",
+"a": "Lighter chicken enchiladas: fill small corn tortillas with shredded slow cooker chicken, black beans, and salsa. Roll and place in a baking dish. Top with a light red enchilada sauce and a quarter cup of low-fat Mexican cheese. Bake at 375 degrees F for 20 minutes. About 380 calories for two enchiladas with 32 grams of protein."
+},
+{
+"q": "How do I make a healthy chicken sandwich?",
+"a": "Healthy chicken sandwich: grill a chicken breast and place on a whole grain bun. Top with sliced avocado, tomato, spinach, and a spread of Dijon mustard or plain Greek yogurt instead of mayonnaise. About 420 calories with 35 grams of protein. Swap the bun for lettuce wraps to cut another 120 calories."
+},
+{
+"q": "What is a good healthy lunch salad with chicken?",
+"a": "Asian chicken salad: toss shredded grilled chicken with shredded cabbage, shredded carrots, edamame, sliced almonds, and mandarin orange segments. Dress with a light sesame-ginger dressing (soy sauce, sesame oil, rice vinegar, honey, ginger). About 380 calories with 35 grams of protein. Store dressing separately."
+},
+{
+"q": "How do I make a healthy Bolognese sauce?",
+"a": "Lean Bolognese: brown 1 lb of 93% lean ground beef with onion, celery, and carrot. Add a cup of low-sodium beef broth, canned crushed tomatoes, tomato paste, garlic, Italian seasoning, salt and pepper. Simmer 30 minutes. Serve over zucchini noodles or 2 ounces of whole wheat pasta. About 350 calories per serving."
+},
+{
+"q": "What are good vegetarian protein snacks?",
+"a": "Vegetarian protein snacks: Greek yogurt (17g per 5.3 oz container), cottage cheese (14g per half cup), a hard-boiled egg (6g), edamame (17g per cup), a quarter cup of roasted chickpeas (7g), a tablespoon of almond butter with an apple (4g), and a string cheese with grapes (6g)."
+},
+{
+"q": "How do I make a healthy loaded sweet potato?",
+"a": "Healthy loaded sweet potato: bake a medium sweet potato at 400 degrees F for 45 to 55 minutes. Split and top with black beans, diced tomato, plain Greek yogurt instead of sour cream, salsa, and a pinch of chili powder. About 350 calories with 13 grams of protein and 10 grams of fiber. A complete vegetarian meal."
+},
+{
+"q": "What is a good healthy nut butter recipe for meal prep?",
+"a": "Homemade almond butter: blend 2 cups of raw or roasted almonds in a food processor for 10 to 15 minutes, scraping down the sides frequently. Add a pinch of salt and a teaspoon of honey if desired. Store in a jar in the fridge for up to 2 weeks. About 190 calories per 2 tablespoons with 7 grams of protein."
+},
+{
+"q": "How do I make healthy granola bars for meal prep?",
+"a": "Healthy granola bars: mix 2 cups rolled oats, half a cup of almond butter, a quarter cup of honey, a quarter cup of mini chocolate chips, and 2 tablespoons of chia seeds. Press into a lined 8x8 pan and refrigerate 2 hours. Cut into 12 bars. About 180 calories per bar with 5 grams of protein. Store in the fridge."
+},
+{
+"q": "What is a good food prep method for beginners?",
+"a": "Beginners should start with the component method: cook 1 protein in bulk (batch-baked chicken), 1 grain (a pot of rice or quinoa), and 1 or 2 vegetables (roasted broccoli and sweet potato). Then mix and match across the week. This approach is simpler than cooking 5 different full recipes and still gives variety."
+},
+{
+"q": "How do I make a healthy grain for meal prep?",
+"a": "Cook grains in broth instead of water for more flavor at no extra calories. Season the water with garlic powder and a pinch of salt. For quinoa, toast in the dry pot for 2 minutes before adding liquid. For rice, add bay leaves while cooking. These small additions make plain grains much more enjoyable throughout the week."
+},
+{
+"q": "What is a good recovery meal after a hard workout?",
+"a": "Recovery meals after intense exercise: grilled salmon with sweet potato and broccoli (~450 cal, 40g protein), chicken and brown rice with roasted vegetables (~420 cal, 38g protein), or a Greek yogurt parfait with granola and banana immediately post-workout followed by a full meal within 2 hours (~580 cal total, 40g protein)."
+},
+{
+"q": "What are good high protein meal prep ideas for women?",
+"a": "High protein meal prep ideas for women targeting 1,400 to 1,600 calories: breakfast of Greek yogurt with berries and chia (~250 cal, 20g protein), lunch of grilled chicken salad (~320 cal, 30g protein), dinner of baked salmon with vegetables and quinoa (~380 cal, 35g protein), and snacks of cottage cheese and apple (~200 cal, 16g protein)."
+},
+{
+"q": "How do I make a simple healthy soup?",
+"a": "Simple lentil soup: combine 1 cup dried red lentils, 4 cups low-sodium vegetable broth, a can of diced tomatoes, 1 diced onion, 3 minced garlic cloves, 1 teaspoon cumin, half a teaspoon turmeric, salt and pepper in a pot. Bring to a boil, reduce heat, and simmer 20 to 25 minutes until lentils are soft. About 230 calories per serving. Makes 5 to 6 servings."
+},
+{
+"q": "What is a good low sodium meal prep recipe?",
+"a": "Low sodium meal prep tips: use herbs, spices, lemon juice, and vinegar to add flavor without salt. Cook dried beans instead of canned (no added sodium). Use no-salt-added canned tomatoes and low-sodium broth. Rinse canned beans and vegetables to remove some sodium. Build flavor with garlic, onion, and fresh herbs."
+},
+{
+"q": "What is a good dairy free meal prep?",
+"a": "Dairy-free meal prep options: overnight oats with almond milk and fruit (~280 cal), salmon with roasted vegetables (~380 cal), lentil and vegetable curry with coconut milk over rice (~420 cal), turkey and vegetable stir-fry over cauliflower rice (~350 cal), and black bean tacos in lettuce cups with guacamole (~320 cal)."
+},
+{
+"q": "How do I make a healthy cucumber salad?",
+"a": "Light cucumber salad: slice 2 cucumbers thin and toss with 1 tablespoon of rice vinegar, a teaspoon of sesame oil, a pinch of chili flakes, a teaspoon of soy sauce, and a sprinkle of sesame seeds. Rest 10 minutes. About 50 calories per serving. A great low-calorie side dish to add volume to any meal."
+},
+{
+"q": "What is a good dinner salad for weight loss?",
+"a": "A filling dinner salad: start with 2 cups of mixed greens or romaine. Add 4 to 5 ounces of grilled chicken, shrimp, or tuna. Top with cucumber, cherry tomatoes, shredded carrots, and a quarter avocado. Dress with 1 tablespoon of olive oil and lemon juice. About 380 calories with 35 grams of protein."
+},
+{
+"q": "How do I meal prep a steak?",
+"a": "Lean steak meal prep: choose a lean cut like sirloin or flank steak. Season with garlic, salt, pepper, and a little olive oil. Grill or sear 3 to 4 minutes per side for medium. Rest 5 minutes before slicing. A 4-ounce portion of sirloin is about 200 calories with 26 grams of protein. Pairs well with roasted vegetables and a small side of quinoa."
+},
+{
+"q": "What is a good weight loss recipe with sweet potatoes?",
+"a": "Sweet potato and black bean enchilada filling: roast cubed sweet potato at 400 degrees F for 20 minutes. Mix with a can of drained black beans, cumin, chili powder, garlic, and a little salsa. Use as a filling for lettuce cups or small corn tortillas. About 280 calories per serving with 10 grams of fiber."
+},
+{
+"q": "How do I add more vegetables to my diet?",
+"a": "Easy ways to eat more vegetables: add a handful of spinach to smoothies (undetectable), bulk up soups and stews with extra vegetables, replace half your starch with a vegetable (half rice, half cauliflower rice), add shredded zucchini or carrot to ground meat dishes, and keep pre-cut vegetables front and center in the fridge."
+},
+{
+"q": "What is a good healthy chicken fried rice?",
+"a": "Healthy chicken fried rice: cook 2 cups of cauliflower rice in a hot pan with sesame oil. Push to the side and scramble 2 eggs. Add diced grilled chicken, frozen peas and carrots, garlic, ginger, and low-sodium soy sauce. Stir everything together. About 320 calories per serving with 28 grams of protein."
+},
+{
+"q": "How do I plan a healthy week of eating?",
+"a": "To plan a healthy week: pick 2 breakfast options, 2 lunch options, and 4 to 5 dinner recipes. Calculate the calories for each. Build your shopping list. Prep as much as possible on Sunday (cook proteins, grains, and vegetables in batches). Track your food the first few weeks until you develop a feel for appropriate portions."
+},
+{
+"q": "What are good low calorie condiment recipes?",
+"a": "Homemade low calorie condiments: simple vinaigrette (olive oil, lemon, Dijon, garlic, 45 cal per tablespoon), Greek yogurt ranch dip (Greek yogurt, dill, garlic powder, onion powder, lemon, 20 cal per tablespoon), homemade salsa (~10 cal per tablespoon), and mango salsa with habanero (~15 cal per tablespoon)."
+},
+{
+"q": "What is a good healthy bowl recipe?",
+"a": "Korean-inspired healthy bowl: cook half a cup of brown rice. Top with 4 ounces of lean ground beef cooked with soy sauce, garlic, ginger, sesame oil, and a little honey. Add shredded carrots, cucumber slices, edamame, and a drizzle of sriracha. About 480 calories with 32 grams of protein. A very filling and satisfying meal prep bowl."
+},
+{
+"q": "How do I make healthy ice cream alternatives?",
+"a": "Frozen banana nice cream is the simplest: blend 2 frozen bananas with a splash of almond milk until smooth. For chocolate, add a tablespoon of cacao powder. For peanut butter flavor, add a tablespoon of peanut butter. About 100 calories per half cup versus 250 or more for regular ice cream."
+},
+{
+"q": "What are the best vegetables for weight loss?",
+"a": "The best vegetables for weight loss are high in fiber and water content, making them very filling for few calories: leafy greens like spinach and kale (~10 to 20 cal per cup), broccoli (~55 cal per cup), cauliflower (~25 cal per cup), cucumber (~16 cal per cup), zucchini (~20 cal per cup), and cabbage (~22 cal per cup)."
+},
+{
+"q": "What is a good healthy soup dumpling recipe?",
+"a": "Light turkey wonton soup: mix ground turkey with ginger, garlic, soy sauce, and sesame oil. Wrap teaspoon-sized portions in wonton wrappers. Simmer wontons in low-sodium chicken broth with bok choy, sliced mushrooms, and a dash of soy sauce and sesame oil for 5 to 6 minutes. About 300 calories per serving."
+},
+{
+"q": "How do I make a healthy Mexican bowl?",
+"a": "Healthy Mexican bowl: base of half a cup of cilantro lime rice or cauliflower rice. Top with grilled chicken or shrimp seasoned with cumin and chili powder. Add half a cup of black beans, pico de gallo, shredded romaine, and a quarter of a sliced avocado. Skip the sour cream and cheese or use a small dollop of plain Greek yogurt. About 450 calories with 38 grams of protein."
+},
+{
+"q": "What is a good protein source for people who do not eat meat?",
+"a": "Excellent non-meat protein sources: Greek yogurt (17g per 5.3 oz), cottage cheese (14g per half cup), eggs (6g each), tofu (20g per cup), tempeh (31g per cup), edamame (17g per cup), lentils (18g per cooked cup), chickpeas (15g per cup), and black beans (15g per cup). A combination of these hits protein needs easily."
+},
+{
+"q": "How do I keep myself accountable with meal prep?",
+"a": "Accountability strategies for meal prep: take a photo of your prepped meals each Sunday, use a habit tracking app, meal prep with a friend or partner, plan and schedule your prep time like any other appointment, keep your grocery list and meal plan visible in the kitchen, and track what you eat each day for at least the first month."
+},
+{
+"q": "What is a good healthy lunch for kids?",
+"a": "Healthy kid-friendly lunch ideas: turkey and cheese roll-ups with carrot sticks and hummus (~350 cal), a small whole wheat wrap with peanut butter and banana (~380 cal), hard-boiled eggs with whole grain crackers and apple slices (~300 cal), and Greek yogurt with granola and mixed berries (~280 cal)."
+},
+{
+"q": "How do I make a healthy chicken shawarma?",
+"a": "Healthy chicken shawarma: marinate chicken thighs in olive oil, lemon juice, garlic, cumin, coriander, turmeric, paprika, salt and pepper for at least 1 hour. Bake at 425 degrees F for 30 to 35 minutes. Slice thin and serve in a whole wheat pita with cucumber, tomato, and plain Greek yogurt tzatziki. About 420 calories with 35 grams of protein."
+},
+{
+"q": "What is a good healthy ground chicken recipe?",
+"a": "Ground chicken lettuce cups: brown ground chicken with garlic, ginger, hoisin sauce, soy sauce, rice vinegar, and a little sesame oil. Serve in large butter lettuce leaves topped with diced water chestnuts, shredded carrots, and sliced green onion. About 280 calories per serving with 28 grams of protein."
+},
+{
+"q": "How do I make a healthy roasted vegetable medley?",
+"a": "Roasted vegetable medley for meal prep: dice sweet potato, red onion, zucchini, bell peppers, and broccoli into similar-sized pieces. Toss with olive oil spray, garlic powder, smoked paprika, salt and pepper. Roast at 425 degrees F for 25 to 30 minutes. About 120 calories per cup. Make a large tray and use all week."
+},
+{
+"q": "What is a good healthy bowl meal for weight loss?",
+"a": "Balanced weight loss bowl: half a cup of quinoa (~110 cal), 4 ounces of grilled protein of your choice (~150 to 200 cal), 1 to 2 cups of roasted or raw vegetables (~50 to 100 cal), a quarter avocado (~60 cal), and a light dressing or sauce (~50 cal). Total around 400 to 500 calories with plenty of protein and fiber."
+},
+{
+"q": "What are good high protein meal ideas for breakfast lunch and dinner?",
+"a": "Full day of high protein meals: breakfast of 3 scrambled eggs with spinach and whole grain toast (~350 cal, 28g protein), lunch of grilled chicken salad with quinoa (~420 cal, 38g protein), dinner of baked salmon with roasted broccoli and sweet potato (~420 cal, 35g protein), and a Greek yogurt snack (~100 cal, 17g protein). Total about 1,290 calories and 118 grams of protein."
+},
+{
+"q": "How do I make a healthy broccoli recipe?",
+"a": "Roasted broccoli is one of the easiest and most delicious healthy side dishes. Toss broccoli florets with olive oil spray, garlic powder, salt, and red pepper flakes. Roast at 425 degrees F for 20 to 22 minutes until the edges are crispy and golden. Squeeze fresh lemon over top before serving. About 55 calories per cup, very high in fiber and vitamin C."
+},
+{
+"q": "What are good healthy frozen meal options?",
+"a": "If you are buying frozen meals for convenience, look for options with at least 15 grams of protein, under 500 calories, and less than 800mg of sodium per serving. Good brands include Trader Joe's, Amy's (for vegetarian), Lean Cuisine Protein Kickstart, and Healthy Choice Power Bowls. Always check the actual label as products vary widely."
+},
+{
+"q": "How do I make a healthy tuna melt?",
+"a": "Lightened tuna melt: mix 1 can of drained tuna with a tablespoon of Greek yogurt, Dijon mustard, diced celery, lemon juice, salt and pepper. Spread on one slice of whole grain bread. Top with a slice of reduced-fat cheddar. Broil until the cheese melts. Serve open-face. About 280 calories with 28 grams of protein."
+},
+{
+"q": "What is a good recipe for healthy mashed sweet potato?",
+"a": "Mashed sweet potato: bake 2 medium sweet potatoes until soft. Scoop out the flesh and mash with a little unsweetened almond milk, cinnamon, a pinch of nutmeg, and salt. No butter needed. About 130 calories per half cup serving with 3 grams of fiber. A great meal prep side dish that reheats well."
+},
+{
+"q": "How do I make healthy deviled eggs?",
+"a": "Lightened deviled eggs: hard-boil 6 eggs and halve them. Mix the yolks with 2 tablespoons of plain Greek yogurt, 1 teaspoon of Dijon mustard, a little white wine vinegar, salt and pepper. Pipe or spoon back into the whites. Top with paprika. About 60 calories per deviled egg half with 4 grams of protein."
+},
+{
+"q": "What is a good healthy dinner salad recipe?",
+"a": "Steak and arugula salad: thinly slice a grilled 4-ounce sirloin steak. Toss with 2 cups of arugula, shaved parmesan, halved cherry tomatoes, and thinly sliced red onion. Dress with a simple lemon and olive oil vinaigrette. About 350 calories with 28 grams of protein. Elegant enough for dinner and very satisfying."
+},
+{
+"q": "What can I eat for a healthy breakfast without eggs?",
+"a": "Egg-free breakfasts that are nutritious and filling: overnight oats with almond milk and berries (~280 cal), Greek yogurt parfait with granola and fruit (~280 cal), banana oat pancakes (~200 cal for 4 small cakes), chia pudding with almond milk and fruit (~200 cal), or a smoothie with banana, almond butter, and plant protein powder (~350 cal)."
+},
+{
+"q": "What are good breakfasts for someone with an egg allergy?",
+"a": "Great egg-free breakfasts: overnight oats with chia seeds and berries (~280 cal), Greek yogurt with granola and honey (~250 cal), avocado toast on whole grain bread (~220 cal), a banana with almond butter (~200 cal), or oatmeal with sliced banana and a drizzle of honey (~250 cal)."
+},
+{
+"q": "What should I eat for breakfast if I cannot eat eggs?",
+"a": "Healthy egg-free breakfast options: overnight oats with chia seeds and frozen berries (~280 cal), Greek yogurt with granola (~250 cal), a smoothie with almond milk, banana, and peanut butter (~320 cal), or whole grain toast with avocado and everything bagel seasoning (~220 cal)."
+},
+{
+"q": "What are healthy breakfasts without soy or eggs?",
+"a": "Soy-free and egg-free breakfasts: overnight oats with almond milk, chia seeds, and berries (~280 cal), Greek yogurt parfait with fruit and granola (~280 cal), banana oat pancakes (~200 cal), oatmeal with almond butter and banana (~300 cal), and chia pudding with coconut or almond milk (~200 cal)."
+},
+{
+"q": "What can I eat for breakfast that has no eggs and no soy?",
+"a": "Breakfast options with no eggs and no soy: plain Greek yogurt with berries and a tablespoon of honey (~200 cal), overnight oats made with almond milk and topped with fruit (~280 cal), oatmeal with almond butter and banana (~300 cal), or a simple smoothie with banana, almond milk, peanut butter, and spinach (~300 cal)."
+},
+{
+"q": "What are good dairy-free and egg-free breakfasts?",
+"a": "Dairy-free and egg-free breakfasts: overnight oats with oat milk or almond milk and fruit (~280 cal), a peanut butter and banana smoothie with plant protein (~350 cal), avocado toast on whole grain bread (~220 cal), banana oat pancakes (~200 cal for 4), and chia pudding with coconut milk and mango (~220 cal)."
+},
+{
+"q": "Give me a good breakfast recipe.",
+"a": "Great breakfast options: overnight oats with almond milk, chia seeds, and berries (~280 cal), Greek yogurt parfait with granola and fruit (~280 cal), banana oat pancakes (~200 cal for 4), a smoothie with banana, almond butter, and plant protein (~350 cal), or whole grain avocado toast (~220 cal)."
+},
+{
+"q": "Give me a breakfast recipe.",
+"a": "Simple breakfast ideas: overnight oats with chia seeds and frozen berries (~280 cal), Greek yogurt with granola and honey (~250 cal), oatmeal with almond butter and banana (~300 cal), avocado toast on whole grain bread (~220 cal), or a banana smoothie with peanut butter and almond milk (~300 cal)."
+},
+{
+"q": "What is a good breakfast recipe?",
+"a": "Easy breakfast recipes: overnight oats layered with chia seeds, almond milk, and berries (~280 cal), a Greek yogurt parfait with granola and fruit (~280 cal), oatmeal with cinnamon and sliced banana (~250 cal), whole grain avocado toast with tomato (~220 cal), or a peanut butter banana smoothie (~300 cal)."
+},
+{
+"q": "Can you give me a breakfast recipe?",
+"a": "Healthy breakfast recipes: overnight oats with almond milk, chia seeds, and mixed berries (~280 cal), Greek yogurt parfait layered with granola and fruit (~280 cal), banana oat pancakes (~200 cal for 4 small cakes), or oatmeal with almond butter and sliced banana (~300 cal). All are quick to make and very filling."
+},
+{
+"q": "What is a healthy breakfast I can make?",
+"a": "Easy healthy breakfasts: overnight oats prepped the night before with almond milk and berries (~280 cal), a Greek yogurt parfait with granola and fruit (~280 cal), whole grain avocado toast (~220 cal), oatmeal with cinnamon, banana, and almond butter (~300 cal), or a banana peanut butter smoothie (~300 cal)."
+},
+{
+"q": "What should I make for breakfast?",
+"a": "Quick breakfast ideas: overnight oats with chia seeds and fresh berries (~280 cal), Greek yogurt with granola and honey (~250 cal), oatmeal with sliced banana and almond butter (~300 cal), avocado toast on whole grain bread (~220 cal), or a smoothie with banana, almond milk, and peanut butter (~300 cal)."
+},
+{
+"q": "What can I make for breakfast?",
+"a": "Easy breakfast options: overnight oats with almond milk, chia seeds, and berries (~280 cal), a Greek yogurt parfait with granola (~250 cal), oatmeal with almond butter and banana (~300 cal), avocado toast with sliced tomato (~220 cal), or a simple banana smoothie with peanut butter and almond milk (~300 cal)."
+},
+{
+"q": "Give me a simple breakfast idea.",
+"a": "Simple breakfast ideas: overnight oats with frozen berries and a drizzle of honey (~280 cal), Greek yogurt with granola and banana (~250 cal), oatmeal with cinnamon and sliced apple (~250 cal), avocado toast on whole grain bread (~220 cal), or a banana peanut butter smoothie (~300 cal)."
+}
+]

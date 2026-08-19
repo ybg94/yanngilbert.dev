@@ -1,0 +1,73 @@
+{
+    "bakery_name": "BakeryMind Demo Bakery",
+
+    "oven": {
+        "tray_capacity": 300,
+        "comment": "Total tray-units available per day across all bake cycles"
+    },
+
+    "items": {
+        "croissant": {
+            "price":     3.50,
+            "cost":      1.20,
+            "flour_kg":  0.20,
+            "butter_kg": 0.08,
+            "tray_units": 1.0,
+            "bake_minutes": 20
+        },
+        "muffin": {
+            "price":     2.75,
+            "cost":      0.90,
+            "flour_kg":  0.15,
+            "butter_kg": 0.06,
+            "tray_units": 0.8,
+            "bake_minutes": 25
+        },
+        "sourdough": {
+            "price":     8.00,
+            "cost":      2.50,
+            "flour_kg":  0.50,
+            "butter_kg": 0.00,
+            "tray_units": 2.0,
+            "bake_minutes": 240
+        },
+        "baguette": {
+            "price":     4.00,
+            "cost":      1.30,
+            "flour_kg":  0.45,
+            "butter_kg": 0.00,
+            "tray_units": 1.5,
+            "bake_minutes": 30
+        },
+        "cookie": {
+            "price":     1.50,
+            "cost":      0.40,
+            "flour_kg":  0.08,
+            "butter_kg": 0.03,
+            "tray_units": 0.5,
+            "bake_minutes": 15
+        }
+    },
+
+    "day_multipliers": {
+        "0": 0.70,
+        "1": 0.80,
+        "2": 0.85,
+        "3": 0.90,
+        "4": 1.00,
+        "5": 1.35,
+        "6": 1.20,
+        "comment": "0=Monday, 6=Sunday"
+    },
+
+    "search": {
+        "step_size": 5,
+        "max_iterations": 200,
+        "missed_sales_penalty_rate": 0.80,
+        "comment": "penalty_rate: fraction of unit price lost per missed sale"
+    },
+
+    "data": {
+        "sales_csv": "sales_history.csv"
+    }
+}
