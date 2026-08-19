@@ -34,27 +34,6 @@ export default function Home() {
           <p className="max-w-2xl leading-relaxed" style={{ color: 'var(--text-dim)' }}>
             {resume.summary}
           </p>
-
-          <div className="flex flex-wrap items-center gap-3 mt-8">
-            <a
-              href="/resume/Yann_Gilbert_Resume.pdf"
-              download="Yann_Gilbert_Resume.pdf"
-              className="inline-flex items-center gap-2 px-5 py-3 rounded-lg font-semibold text-[14px] transition-transform hover:-translate-y-0.5"
-              style={{ background: 'var(--amber)', color: '#1a1206', fontFamily: 'var(--font-mono)' }}
-            >
-              ↓ download resume.pdf
-            </a>
-            <a
-              href={`mailto:${resume.contact.email}`}
-              className="inline-flex items-center gap-2 px-5 py-3 rounded-lg text-[14px] border transition-colors hover:bg-white/5"
-              style={{ borderColor: 'var(--line)', color: 'var(--text)', fontFamily: 'var(--font-mono)' }}
-            >
-              {resume.contact.email}
-            </a>
-            <span className="px-5 py-3 text-[14px]" style={{ color: 'var(--text-faint)', fontFamily: 'var(--font-mono)' }}>
-              {resume.contact.phone}
-            </span>
-          </div>
         </div>
       </div>
 

@@ -1,10 +1,6 @@
 export const resume = {
   name: 'Yann Gilbert',
   title: 'Software Developer',
-  contact: {
-    phone: '+1 (281) 630-7169',
-    email: 'yanngilbertone@gmail.com',
-  },
   summary:
     'Software Developer completing a Master\'s degree in Artificial Intelligence, combining a strong foundation in full-stack development, systems integration, and cloud infrastructure with hands-on experience building machine learning models, computer vision pipelines, and agentic AI systems. Skilled at modernizing legacy systems and delivering scalable applications, now applying that same rigor to intelligent, data-driven solutions.',
   coreSkills: [

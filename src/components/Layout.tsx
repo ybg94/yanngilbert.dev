@@ -1,5 +1,6 @@
 import { NavLink, Outlet } from 'react-router-dom'
 import { useState } from 'react'
+import ResumeModal from './ResumeModal'
 
 const NAV_ITEMS = [
   { to: '/', label: 'home', service: 'resume', end: true },
@@ -11,6 +12,12 @@ const NAV_ITEMS = [
 
 export default function Layout() {
   const [menuOpen, setMenuOpen] = useState(false)
+  const [resumeModalOpen, setResumeModalOpen] = useState(false)
+
+  const handleResumeClick = () => {
+    setMenuOpen(false)
+    setResumeModalOpen(true)
+  }
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -18,9 +25,6 @@ export default function Layout() {
         <div className="max-w-6xl mx-auto px-5 md:px-8 h-16 flex items-center justify-between">
           <NavLink to="/" className="flex items-center gap-2 shrink-0">
             <span className="status-dot on" />
-            <span style={{ fontFamily: 'var(--font-mono)' }} className="text-[15px] font-semibold tracking-tight">
-              yann<span style={{ color: 'var(--amber)' }}>.dev</span>
-            </span>
           </NavLink>
 
           <nav className="hidden md:flex items-center gap-1" style={{ fontFamily: 'var(--font-mono)' }}>
@@ -43,6 +47,15 @@ export default function Layout() {
                 {item.label}
               </NavLink>
             ))}
+            <a
+              href="/resume/Yann_Gilbert_Resume.pdf"
+              download="Yann_Gilbert_Resume.pdf"
+              onClick={handleResumeClick}
+              className="ml-2 px-3 py-2 rounded-md text-[13px] font-semibold transition-transform hover:-translate-y-0.5"
+              style={{ background: 'var(--amber)', color: '#1a1206' }}
+            >
+              ↓ resume
+            </a>
           </nav>
 
           <button
@@ -72,6 +85,15 @@ export default function Layout() {
                 <span style={{ color: 'var(--text-faint)', fontSize: 11 }}>{item.service}</span>
               </NavLink>
             ))}
+            <a
+              href="/resume/Yann_Gilbert_Resume.pdf"
+              download="Yann_Gilbert_Resume.pdf"
+              onClick={handleResumeClick}
+              className="mt-1 px-2 py-2.5 rounded text-[13px] text-center font-semibold"
+              style={{ background: 'var(--amber)', color: '#1a1206' }}
+            >
+              ↓ download resume
+            </a>
           </nav>
         )}
       </header>
@@ -79,6 +101,8 @@ export default function Layout() {
       <main className="flex-1">
         <Outlet />
       </main>
+
+      <ResumeModal open={resumeModalOpen} onClose={() => setResumeModalOpen(false)} />
 
       <footer className="border-t py-8 px-5 md:px-8" style={{ borderColor: 'var(--line)' }}>
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-3 text-[12px]" style={{ fontFamily: 'var(--font-mono)', color: 'var(--text-faint)' }}>
