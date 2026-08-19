@@ -23,10 +23,6 @@ export default function Layout() {
     <div className="min-h-screen flex flex-col">
       <header className="sticky top-0 z-50 border-b" style={{ borderColor: 'var(--line)', background: 'rgba(11,14,20,0.9)', backdropFilter: 'blur(8px)' }}>
         <div className="max-w-6xl mx-auto px-5 md:px-8 h-16 flex items-center justify-between">
-          <NavLink to="/" className="flex items-center gap-2 shrink-0">
-            <span className="status-dot on" />
-          </NavLink>
-
           <nav className="hidden md:flex items-center gap-1" style={{ fontFamily: 'var(--font-mono)' }}>
             {NAV_ITEMS.map((item) => (
               <NavLink
@@ -59,7 +55,7 @@ export default function Layout() {
           </nav>
 
           <button
-            className="md:hidden text-[13px] px-3 py-1.5 rounded border"
+            className="md:hidden ml-auto text-[13px] px-3 py-1.5 rounded border"
             style={{ borderColor: 'var(--line)', color: 'var(--text-dim)', fontFamily: 'var(--font-mono)' }}
             onClick={() => setMenuOpen((v) => !v)}
           >
